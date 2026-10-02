@@ -17,7 +17,7 @@ Style: Default,Trebuchet MS,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:05.00,ssrly,,0,0,0,,{\fs40\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Riley\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Beyaz\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
-Dialogue: 0,0:00:47.59,0:00:52.30,ssrly,,0,0,0,,Bu ilaç kalbinizi iyilşetirebilir ve dünyevi bütün acılarınızı silebilir.
+Dialogue: 0,0:00:47.59,0:00:52.30,ssrly,,0,0,0,,Bu ilaç kalbinizi iyileştirebilir ve dünyevi bütün acılarınızı silebilir.
 Dialogue: 0,0:02:39.03,0:02:40.63,ssrly,,0,0,0,,Bir çekirge istilası mı?
 Dialogue: 0,0:02:41.00,0:02:45.43,ssrly,,0,0,0,,Evet, Loulan'ın bana verdiği notta yazıyordu.
 Dialogue: 0,0:02:45.43,0:02:48.15,ssrly,,0,0,0,,Eğer şimdi bir çekirge istilası çıkarsa..
@@ -166,7 +166,7 @@ Dialogue: 0,0:11:07.18,0:11:07.55,ssrly,,0,0,0,,Hıh?
 Dialogue: 0,0:11:08.33,0:11:09.88,ssrly,,0,0,0,,Hatırlaaaa.
 Dialogue: 0,0:11:09.88,0:11:11.33,ssrly,,0,0,0,,Ah, dur!
 Dialogue: 0,0:11:11.65,0:11:12.20,ssrly,,0,0,0,,Ah.
-Dialogue: 0,0:11:13.20,0:11:15.10,ssrly,,0,0,0,,Hatırlayaabilirim.
+Dialogue: 0,0:11:13.20,0:11:15.10,ssrly,,0,0,0,,Hatırlayabilirim.
 Dialogue: 0,0:11:15.10,0:11:15.95,ssrly,,0,0,0,,Cidden mi?!
 Dialogue: 0,0:11:15.95,0:11:17.58,ssrly,,0,0,0,,Eğer bana bir şey alırsan!
 Dialogue: 0,0:11:18.66,0:11:21.13,ssrly,,0,0,0,,Acıyor! Acıyor!
@@ -250,7 +250,7 @@ Dialogue: 0,0:16:04.94,0:16:06.35,ssrly,,0,0,0,,Kraliyet muhafızları..
 Dialogue: 0,0:16:06.35,0:16:08.95,ssrly,,0,0,0,,Belki de { \i1}ona {\i0} sorarım.
 Dialogue: 0,0:16:12.08,0:16:12.95,ssrly,,0,0,0,,Genç hanım.
 Dialogue: 0,0:16:12.95,0:16:15.18,ssrly,,0,0,0,,Bende meşgulüm biliyorsun değil mi?
-Dialogue: 0,0:16:15.18,0:16:17.50,ssrly,,0,0,0,,Küçük hırsızların peşine düşmek, bilirsinya..
+Dialogue: 0,0:16:15.18,0:16:17.50,ssrly,,0,0,0,,Küçük hırsızların peşine düşmek, bilirsin...
 Dialogue: 0,0:16:17.50,0:16:19.73,ssrly,,0,0,0,,Teşekküer ederim Lihaku-sama.
 Dialogue: 0,0:16:19.73,0:16:24.05,ssrly,,0,0,0,,Sabahın erken saatlerinden beri nöbet tuttum ve bu şeyi satmaya çalışan adamı yakaladım.
 Dialogue: 0,0:16:24.05,0:16:25.35,ssrly,,0,0,0,,Minnettar olmalısın.
@@ -337,7 +337,7 @@ Dialogue: 0,0:20:23.48,0:20:25.88,ssrly,,0,0,0,,Aslında satmak istememiştim..
 Dialogue: 0,0:20:25.88,0:20:28.63,ssrly,,0,0,0,,Şansım olduğunda hepsini geri alacaktım.
 Dialogue: 0,0:20:28.63,0:20:31.78,ssrly,,0,0,0,,Ne de olsa çizimli kitap almaya ilgi gösterecek biri yoktur,değil mi?
 Dialogue: 0,0:20:31.78,0:20:33.21,ssrly,,0,0,0,,Bu hariç.
-Dialogue: 0,0:20:36.55,0:20:41.22,ssrly,,0,0,0,,Eskiden, senden öönce orada bulunan yaşlı amcaya yemek götürürdüm.
+Dialogue: 0,0:20:36.55,0:20:41.22,ssrly,,0,0,0,,Eskiden, senden önce orada bulunan yaşlı amcaya yemek götürürdüm.
 Dialogue: 0,0:20:42.48,0:20:44.55,ssrly,,0,0,0,,Ölümsüzlük iksirini araştıran eczacı mı?
 Dialogue: 0,0:20:44.95,0:20:45.55,ssrly,,0,0,0,,Evet.
 Dialogue: 0,0:20:45.98,0:20:47.83,ssrly,,0,0,0,,Ama başka şeylerde yaptı.

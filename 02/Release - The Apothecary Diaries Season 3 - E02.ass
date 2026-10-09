@@ -1,0 +1,348 @@
+[Script Info]
+Title: pn-SomeSubs - The Apothecary Diaries Season 3
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ssrly,Trebuchet MS,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.00,ssrly,,0,0,0,,{\fs50\an7\fe162\b1\fad(400,400)\blur5\shad0\4a&HFF&\fnSweetest Cat Ever}\N{\pos(20,-2)\c&HFFFF00&\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Riley\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} UserXTR\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 9,0:01:32.93,0:01:35.13,ssrly,,0,0,0,,Hey, o hikâyeyi duydun mu?
+Dialogue: 9,0:01:35.13,0:01:38.55,ssrly,,0,0,0,,Evet, isyan çıkaran o korkunç kadınla ilgili olan hikâye, değil mi?
+Dialogue: 9,0:01:38.55,0:01:42.88,ssrly,,0,0,0,,Duyduğuma göre imparatorun kardeşi\Nisyancıları bastırmak için kraliyet muhafızlarını komuta etmiş.
+Dialogue: 9,0:01:43.13,0:01:48.09,ssrly,,0,0,0,,Peki, o kötü kalpli Loulan kadınının\Nonun yüzünde bir yara izi bıraktığını duydun mu?
+Dialogue: 9,0:01:48.09,0:01:50.30,ssrly,,0,0,0,,Eyvah! Bu çok kötü.
+Dialogue: 9,0:01:53.75,0:01:54.53,ssrly,,0,0,0,,Jinshi-sama.
+Dialogue: 9,0:01:55.48,0:01:56.68,ssrly,,0,0,0,,Ne var?
+Dialogue: 9,0:01:56.68,0:01:59.48,ssrly,,0,0,0,,Bu sokaklarda dağıtılıyor.
+Dialogue: 9,0:02:00.10,0:02:04.70,ssrly,,0,0,0,,Shi'nin isyanı ve sizin bu olaylarla\Nbağlantınız hakkında her istediklerini yazıyorlar.
+Dialogue: 9,0:02:07.05,0:02:08.11,ssrly,,0,0,0,,Kendi hâllerine bırak.
+Dialogue: 9,0:02:08.43,0:02:11.20,ssrly,,0,0,0,,Anlaşıldı. Bu da o kızdan geldi.
+Dialogue: 9,0:02:12.38,0:02:13.20,ssrly,,0,0,0,,Maomao'dan mı?
+Dialogue: 9,0:02:17.83,0:02:21.80,ssrly,,0,0,0,,Eczane, Verdigris Evi çalışmaya başladığında kapanıyor.
+Dialogue: 9,0:02:22.33,0:02:24.93,ssrly,,0,0,0,,Geceleri neredeyse hiç düzgün müşteri gelmiyor.
+Dialogue: 9,0:02:24.93,0:02:27.75,ssrly,,0,0,0,,Ayrıca burayı açık tutmak ucuz değil.
+Dialogue: 9,0:02:31.53,0:02:32.58,ssrly,,0,0,0,,Yaşlı kadın.
+Dialogue: 9,0:02:32.58,0:02:33.88,ssrly,,0,0,0,,Ne?
+Dialogue: 9,0:02:33.88,0:02:36.14,ssrly,,0,0,0,,İşte bugünün satış miktarları. Bununla ilgilen.
+Dialogue: 9,0:02:36.14,0:02:37.15,ssrly,,0,0,0,,Tamamdır.
+Dialogue: 9,0:02:37.53,0:02:39.75,ssrly,,0,0,0,,Chou-u, eve gidiyoruz.
+Dialogue: 9,0:02:40.38,0:02:42.48,ssrly,,0,0,0,,Ne? Hemen mi?
+Dialogue: 9,0:02:46.15,0:02:47.23,ssrly,,0,0,0,,Soğuk.
+Dialogue: 9,0:02:49.08,0:02:50.88,ssrly,,0,0,0,,Hey, yemeyecek misin?
+Dialogue: 9,0:02:50.88,0:02:52.65,ssrly,,0,0,0,,Yiyeceğim...
+Dialogue: 9,0:02:53.65,0:02:54.73,ssrly,,0,0,0,,Acıdı!
+Dialogue: 9,0:02:55.30,0:02:56.53,ssrly,,0,0,0,,Yorganın altından çık.
+Dialogue: 9,0:02:56.53,0:02:59.00,ssrly,,0,0,0,,Ah, korkunçsun!
+Dialogue: 9,0:02:59.00,0:03:00.83,ssrly,,0,0,0,,Sus, bunu giy.
+Dialogue: 9,0:03:04.43,0:03:06.17,ssrly,,0,0,0,,Daha fazla et koy.
+Dialogue: 9,0:03:06.17,0:03:08.17,ssrly,,0,0,0,,O zaman daha fazla para kazan.
+Dialogue: 9,0:03:09.00,0:03:12.17,ssrly,,0,0,0,,Chou-u'ya bakabilecek kadar para kazanıyorum,
+Dialogue: 9,0:03:12.17,0:03:14.17,ssrly,,0,0,0,,ama hiçbirini boşa harcamayacağım.
+Dialogue: 9,0:03:14.17,0:03:17.98,ssrly,,0,0,0,,Çilli, gayet iyi para kazanıyorsun.
+Dialogue: 9,0:03:17.98,0:03:20.18,ssrly,,0,0,0,,Neden daha iyi şeylerle beslenmiyorsun?
+Dialogue: 9,0:03:20.18,0:03:23.55,ssrly,,0,0,0,,Aptal, o yaşlı kadına kira ödüyoruz.
+Dialogue: 9,0:03:23.55,0:03:26.19,ssrly,,0,0,0,,Sence ne kadar istiyor?
+Dialogue: 9,0:03:27.88,0:03:29.48,ssrly,,0,0,0,,Soğuk!
+Dialogue: 9,0:03:29.48,0:03:32.45,ssrly,,0,0,0,,Sanırım o ceket çok ince.
+Dialogue: 9,0:03:33.58,0:03:35.95,ssrly,,0,0,0,,Yarın giysi almaya gideceğim, benimle gel.
+Dialogue: 9,0:03:35.95,0:03:37.15,ssrly,,0,0,0,,Emin misin?
+Dialogue: 9,0:03:37.15,0:03:37.80,ssrly,,0,0,0,,Oley!
+Dialogue: 9,0:03:40.20,0:03:40.73,ssrly,,0,0,0,,Acıdı!
+Dialogue: 9,0:03:46.53,0:03:47.80,ssrly,,0,0,0,,Çok uzaklaşma.
+Dialogue: 9,0:03:50.60,0:03:53.70,ssrly,,0,0,0,,Ana cadde, başkenti\Ndoğu ve batı olmak üzere ikiye ayırıyor.
+Dialogue: 9,0:03:53.98,0:03:56.88,ssrly,,0,0,0,,Ne kadar kuzeye gidersen dükkanlar o kadar güzelleşiyor.
+Dialogue: 9,0:03:56.88,0:04:00.00,ssrly,,0,0,0,,Güneye doğru gittikçe de\Nortam giderek alt sınıfa kaymaya başlıyor.
+Dialogue: 9,0:04:01.03,0:04:04.22,ssrly,,0,0,0,,Sokak aralarında pek çok şüpheli sokak satıcısı var.
+Dialogue: 9,0:04:05.10,0:04:07.48,ssrly,,0,0,0,,Uzaklaşma dedim!
+Dialogue: 9,0:04:11.35,0:04:12.23,ssrly,,0,0,0,,Burası.
+Dialogue: 9,0:04:12.23,0:04:14.50,ssrly,,0,0,0,,Ne, ikinci el mi?
+Dialogue: 9,0:04:14.50,0:04:16.24,ssrly,,0,0,0,,Söylenme.
+Dialogue: 9,0:04:16.24,0:04:18.68,ssrly,,0,0,0,,Çocuk giysileri...
+Dialogue: 9,0:04:19.15,0:04:21.73,ssrly,,0,0,0,,O ne?
+Dialogue: 9,0:04:26.25,0:04:28.50,ssrly,,0,0,0,,Başka bir kültüre ait bir giysiye benziyor.
+Dialogue: 9,0:04:29.10,0:04:31.05,ssrly,,0,0,0,,Ucuz gözüküyor.
+Dialogue: 9,0:04:32.93,0:04:34.25,ssrly,,0,0,0,,Acıdı.
+Dialogue: 9,0:04:35.35,0:04:37.00,ssrly,,0,0,0,,Buna mı ucuz gözüküyor dedin?
+Dialogue: 9,0:04:37.00,0:04:42.26,ssrly,,0,0,0,,Yani, öyle değil mi? Kadın kıyafetlerinde\Ndaha parlak renkler kullanılmıyor mu?
+Dialogue: 9,0:04:42.26,0:04:44.70,ssrly,,0,0,0,,Normalde evet.
+Dialogue: 9,0:04:45.29,0:04:48.58,ssrly,,0,0,0,,Ancak bu giysi, bir göksel bakire tarafından giyilmişti.
+Dialogue: 9,0:04:48.95,0:04:49.98,ssrly,,0,0,0,,Göksel bakire?
+Dialogue: 9,0:04:50.71,0:04:55.28,ssrly,,0,0,0,,Gölde ortadan kaybolan\Ngöksel bakirenin hikâyesini duymak ister misin?
+Dialogue: 9,0:04:56.78,0:04:57.45,ssrly,,0,0,0,,Evet!
+Dialogue: 9,0:04:57.45,0:05:00.45,ssrly,,0,0,0,,Buranın sahibi hikâye anlatmayı gerçekten çok seviyor.
+Dialogue: 9,0:05:01.10,0:05:03.53,ssrly,,0,0,0,,Babam da eskiden bu hikâyelere kendini kaptırırdı.
+Dialogue: 9,0:05:07.48,0:05:10.73,ssrly,,0,0,0,,Hikâye güneydeki bir köyde geçiyor.
+Dialogue: 9,0:05:12.29,0:05:16.05,ssrly,,0,0,0,,Günün birinde bir köylü kayıp olan bir kıza yardım etmiş.
+Dialogue: 9,0:05:17.10,0:05:21.75,ssrly,,0,0,0,,Güzeller güzeli kızın altın sarısı saçları ve açık renk teni varmış.
+Dialogue: 9,0:05:22.63,0:05:25.05,ssrly,,0,0,0,,Köylü ilk görüşte ona âşık olmuş.
+Dialogue: 9,0:05:27.30,0:05:32.31,ssrly,,0,0,0,,Kız, köylüye bir giysi dokuyarak teşekkür etmiş.
+Dialogue: 9,0:05:33.05,0:05:36.32,ssrly,,0,0,0,,Gizemli bir desenle işlenmiş bu giysi,
+Dialogue: 9,0:05:36.32,0:05:39.93,ssrly,,0,0,0,,diğer giysilere göre katbekat daha fazlaya satılabilirdi.
+Dialogue: 9,0:05:40.58,0:05:45.80,ssrly,,0,0,0,,Aylar geçmiş ve kız evine dönmek istediği için ağlamaya başlamış.
+Dialogue: 9,0:05:45.80,0:05:49.83,ssrly,,0,0,0,,Oysa köylü ona âşıktı, pek çok kez evlilik teklif etti.
+Dialogue: 9,0:05:49.83,0:05:52.08,ssrly,,0,0,0,,Ve kız sonunda bunu kabul etti.
+Dialogue: 9,0:05:53.70,0:05:57.85,ssrly,,0,0,0,,Ama bir gün kızın ailesi onu aramak için köye geldi.
+Dialogue: 9,0:05:58.78,0:06:01.08,ssrly,,0,0,0,,Köylüler kızı vermek istemedi.
+Dialogue: 9,0:06:02.08,0:06:06.35,ssrly,,0,0,0,,Bu yüzden onu sakladılar ve onu tanıdıklarını inkâr ettiler.
+Dialogue: 9,0:06:07.73,0:06:12.08,ssrly,,0,0,0,,Aile geri çekildi ama şüphelenmişlerdi.
+Dialogue: 9,0:06:13.03,0:06:17.40,ssrly,,0,0,0,,Bunun üzerine köylü, düğünü bir an önce halletmeye karar verdi.
+Dialogue: 9,0:06:18.13,0:06:22.36,ssrly,,0,0,0,,Ailesinin yakınlarda olduğunu hisseden kız\Nkarşı çıkmaya çalıştı ama işe yaramadı.
+Dialogue: 9,0:06:22.85,0:06:26.37,ssrly,,0,0,0,,Köylü, kadına pınarda kendini arındırmasını söyledi.
+Dialogue: 9,0:06:26.37,0:06:29.90,ssrly,,0,0,0,,Ve ona kendi elleriyle dokuduğu geleneksel kıyafeti giydirdi.
+Dialogue: 9,0:06:31.10,0:06:35.73,ssrly,,0,0,0,,Kızın tüm vücudunu sırılsıklam eden gözyaşları hiç durmadı.
+Dialogue: 9,0:06:38.38,0:06:43.30,ssrly,,0,0,0,,Ailesinin yanına dönebilmek için son bir kez onlara yalvardı.
+Dialogue: 9,0:06:43.93,0:06:47.30,ssrly,,0,0,0,,Reddedildiğinde...
+Dialogue: 9,0:06:55.28,0:07:02.93,ssrly,,0,0,0,,Ondan geriye sadece bir parça kumaş;\Nbaşını örttüğü peçesi kalmıştı.
+Dialogue: 9,0:07:03.53,0:07:05.30,ssrly,,0,0,0,,Kız cennete geri döndü.
+Dialogue: 9,0:07:05.30,0:07:08.18,ssrly,,0,0,0,,Köylüler böyle düşünmüştü.
+Dialogue: 9,0:07:09.23,0:07:14.05,ssrly,,0,0,0,,Ve bu da o göksel bakire tarafından giyilmiş giysilerden biriydi.
+Dialogue: 9,0:07:14.41,0:07:15.58,ssrly,,0,0,0,,Vay!
+Dialogue: 9,0:07:15.58,0:07:19.20,ssrly,,0,0,0,,Hey çilli, bu harika, harika!
+Dialogue: 9,0:07:19.20,0:07:20.42,ssrly,,0,0,0,,Bunu alalım mı?
+Dialogue: 9,0:07:20.73,0:07:25.20,ssrly,,0,0,0,,Sen göksel bakire ile aynı yaşlarda gözüküyorsun.
+Dialogue: 9,0:07:25.20,0:07:26.43,ssrly,,0,0,0,,Sana iyi bir teklif yapacağım.
+Dialogue: 9,0:07:26.43,0:07:27.68,ssrly,,0,0,0,,Pahalı!
+Dialogue: 9,0:07:27.68,0:07:29.08,ssrly,,0,0,0,,Bu bir sıfır daha fazla.
+Dialogue: 9,0:07:29.08,0:07:32.78,ssrly,,0,0,0,,Ne yani, efsaneye inanmıyor musun?
+Dialogue: 9,0:07:32.78,0:07:34.43,ssrly,,0,0,0,,İçinde zerre kadar hayal gücü yok.
+Dialogue: 9,0:07:34.43,0:07:40.03,ssrly,,0,0,0,,Hayal gücü mü? Ben çoktan gölde kaybolan\Nbir göksel bakireyi kendi gözlerimle gördüm.
+Dialogue: 9,0:07:43.58,0:07:45.00,ssrly,,0,0,0,,Dokunabilir miyim?
+Dialogue: 9,0:07:45.50,0:07:46.10,ssrly,,0,0,0,,Evet.
+Dialogue: 9,0:07:46.10,0:07:48.45,ssrly,,0,0,0,,Mahvetme ama.
+Dialogue: 9,0:07:48.45,0:07:52.45,ssrly,,0,0,0,,Bu dünyada birçok garip ve fantastik şey vardır,
+Dialogue: 9,0:07:52.45,0:07:55.05,ssrly,,0,0,0,,ama her zaman ardında bir tür mantık yatar.
+Dialogue: 9,0:07:55.63,0:08:02.46,ssrly,,0,0,0,,Bu mantığı anlayamayan insanlar suçu;\Nlanetlere, büyülere ve bazen de hayaletlere atarlar.
+Dialogue: 9,0:08:04.18,0:08:05.50,ssrly,,0,0,0,,Bu desen...
+Dialogue: 9,0:08:07.13,0:08:09.88,ssrly,,0,0,0,,Bunu on katı fiyatına satabilirim desem ne yapardın?
+Dialogue: 9,0:08:09.88,0:08:15.93,ssrly,,0,0,0,,On katı? Hah, eğer bunu yapabilseydin\Ndükkandaki her şeyi bedavaya alabilirdin.
+Dialogue: 9,0:08:15.93,0:08:18.73,ssrly,,0,0,0,,Duydun mu, Chou-u?
+Dialogue: 9,0:08:18.73,0:08:22.98,ssrly,,0,0,0,,On katı? Bu kadar pahalıya satman mümkün değil.
+Dialogue: 9,0:08:22.98,0:08:25.03,ssrly,,0,0,0,,Neden bahsediyorsun, Çilli?
+Dialogue: 9,0:08:26.49,0:08:28.88,ssrly,,0,0,0,,Amca, bu giysiyle kömürü ödünç alıyorum.
+Dialogue: 9,0:08:28.88,0:08:30.49,ssrly,,0,0,0,,Hey, ne yapmayı planlıyorsun?!
+Dialogue: 9,0:08:39.05,0:08:42.50,ssrly,,0,0,0,,Yapma! Değerli ürünümü yakacaksın!
+Dialogue: 9,0:08:44.25,0:08:45.90,ssrly,,0,0,0,,Yanmıyor...
+Dialogue: 9,0:08:47.20,0:08:48.78,ssrly,,0,0,0,,O kömür değil mi?
+Dialogue: 9,0:08:48.78,0:08:50.08,ssrly,,0,0,0,,Neler oluyor?
+Dialogue: 9,0:08:50.08,0:08:53.08,ssrly,,0,0,0,,Genç hanım, bu neyin nesi...
+Dialogue: 9,0:08:53.08,0:08:55.50,ssrly,,0,0,0,,Kendin dedin ya.
+Dialogue: 9,0:08:55.50,0:08:58.95,ssrly,,0,0,0,,Bu, bir göksel bakire tarafından giyilmiş bir giysi!
+Dialogue: 9,0:09:00.52,0:09:05.28,ssrly,,0,0,0,,Az önce gördüğünüz gibi, kömüre değdiği\Nhalde yanmadı, kararmadı bile.
+Dialogue: 9,0:09:05.28,0:09:07.78,ssrly,,0,0,0,,Bu gizemli giysi...
+Dialogue: 9,0:09:09.48,0:09:09.88,ssrly,,0,0,0,,Ne?
+Dialogue: 9,0:09:12.53,0:09:21.43,ssrly,,0,0,0,,E-Evet! Bu, göksel bakire tarafından giyilmiş "Ateş Faresi Pelerini"!
+Dialogue: 9,0:09:21.43,0:09:22.15,ssrly,,0,0,0,,Ne kadar?
+Dialogue: 9,0:09:22.15,0:09:23.78,ssrly,,0,0,0,,10, 10 veririm!
+Dialogue: 9,0:09:23.78,0:09:25.10,ssrly,,0,0,0,,Hayır, ben 20 veririm.
+Dialogue: 9,0:09:25.10,0:09:26.55,ssrly,,0,0,0,,50!
+Dialogue: 9,0:09:26.95,0:09:29.95,ssrly,,0,0,0,,Çilli, çok sıcakladım.
+Dialogue: 9,0:09:29.95,0:09:31.33,ssrly,,0,0,0,,Onları çıkar o zaman.
+Dialogue: 9,0:09:31.33,0:09:34.78,ssrly,,0,0,0,,Taşımak istemediğin için onları giyen sendin.
+Dialogue: 9,0:09:35.30,0:09:41.28,ssrly,,0,0,0,,Daha az renkli şeyleri tercih ederdim\Nama şikâyet etmemeliyim, ne de olsa bedavaydı.
+Dialogue: 9,0:09:41.98,0:09:44.56,ssrly,,0,0,0,,O pelerin neden yanmadı?
+Dialogue: 9,0:09:44.90,0:09:47.48,ssrly,,0,0,0,,Pelerinlerin neden yapıldığını biliyor musun?
+Dialogue: 9,0:09:47.48,0:09:51.08,ssrly,,0,0,0,,Pamuk ve kenevir mi? Ve bazen böcekler?
+Dialogue: 9,0:09:51.38,0:09:54.57,ssrly,,0,0,0,,Evet, ama az önceki giysi "taş"tan yapılmaydı.
+Dialogue: 9,0:09:54.85,0:09:55.98,ssrly,,0,0,0,,Taş?!
+Dialogue: 9,0:09:55.98,0:09:58.23,ssrly,,0,0,0,,Taş derken bunlar gibi taş mı?
+Dialogue: 9,0:09:58.58,0:10:00.93,ssrly,,0,0,0,,Taşlar birçok şekilde olabilir.
+Dialogue: 9,0:10:01.45,0:10:04.13,ssrly,,0,0,0,,Lifli taşlardan yapılan giysiler kolay kolay yanmaz.
+Dialogue: 9,0:10:05.35,0:10:08.59,ssrly,,0,0,0,,Asbestten yapılan yanmaz kumaşın pek çok adı vardır.
+Dialogue: 9,0:10:08.59,0:10:11.80,ssrly,,0,0,0,,Bunlardan biri "Ateş Faresi Pelerini"dir.
+Dialogue: 9,0:10:12.59,0:10:17.00,ssrly,,0,0,0,,Bunun hakkında bilen bazı kişiler olsa da\Ngerçeğini gören pek yok.
+Dialogue: 9,0:10:19.85,0:10:21.33,ssrly,,0,0,0,,Peki ya göksel bakire?
+Dialogue: 9,0:10:21.58,0:10:25.23,ssrly,,0,0,0,,O hikâye yarı doğru yarı yanlıştı.
+Dialogue: 9,0:10:25.23,0:10:26.61,ssrly,,0,0,0,,Ne demek istiyorsun?
+Dialogue: 9,0:10:27.75,0:10:30.85,ssrly,,0,0,0,,Giysideki desenleri tanıdım.
+Dialogue: 9,0:10:31.53,0:10:37.30,ssrly,,0,0,0,,Eskiden babamın sık sık yazdığı\Nyabancı bir alfabeden bir mesajdı.
+Dialogue: 9,0:10:34.61,0:10:37.30,ssrly,,0,0,0,,Kolayca sarmaşık deseni gibi gösterilebilir.
+Dialogue: 9,0:10:38.62,0:10:42.35,ssrly,,0,0,0,,"Göksel bakire" dedikleri muhtemelen yabancı topraklardan gelen bir kızdı.
+Dialogue: 9,0:10:43.45,0:10:47.23,ssrly,,0,0,0,,Gerçekten kayıp mı olmuştu ya da kaçırılmış mıydı bilemeyiz.
+Dialogue: 9,0:10:47.23,0:10:50.63,ssrly,,0,0,0,,Ama kız ailesinin yanına dönmek istediği için o giysileri giydi.
+Dialogue: 9,0:10:51.43,0:10:55.00,ssrly,,0,0,0,,Köylünün okuyamayacağı bir dilde mesaj dokuyarak,
+Dialogue: 9,0:10:55.00,0:10:58.00,ssrly,,0,0,0,,kendi ülkesinden olanlardan yardım istedi.
+Dialogue: 9,0:10:59.95,0:11:03.10,ssrly,,0,0,0,,Anladım, bu yüzden ailesi onu kurtarmaya geldi.
+Dialogue: 9,0:11:03.55,0:11:05.33,ssrly,,0,0,0,,Ve düğün gününde,
+Dialogue: 9,0:11:05.80,0:11:09.03,ssrly,,0,0,0,,Kendini arındırdığını iddia etti ve iç çamaşırlarını ıslattı.
+Dialogue: 9,0:11:09.03,0:11:11.92,ssrly,,0,0,0,,Üstüne de asbestten yapılma giysiyi giydi.
+Dialogue: 9,0:11:13.10,0:11:18.23,ssrly,,0,0,0,,İçi su dolu tahta bir kabın içindeki su bitmeden yanmayacağını biliyor muydun?
+Dialogue: 9,0:11:18.23,0:11:19.98,ssrly,,0,0,0,,Onunla aynı mantık.
+Dialogue: 9,0:11:19.98,0:11:24.66,ssrly,,0,0,0,,Ve elbisesinin üzerine yanmaz bir kat giydiğinde,
+Dialogue: 9,0:11:24.95,0:11:28.67,ssrly,,0,0,0,,Dış kısmı muhteşem bir şekilde yanabilir\Nama cilde en ufak zarar bile vermez.
+Dialogue: 9,0:11:28.67,0:11:32.28,ssrly,,0,0,0,,Sonra tek yapması gereken yanmadan önce kendisini suya atmaktı.
+Dialogue: 9,0:11:32.67,0:11:35.18,ssrly,,0,0,0,,Bunu neden dükkân sahibine söylemedin?
+Dialogue: 9,0:11:35.50,0:11:37.38,ssrly,,0,0,0,,Çünkü ruhunda romantizm var.
+Dialogue: 9,0:11:38.68,0:11:40.68,ssrly,,0,0,0,,O da ne demek?
+Dialogue: 9,0:11:42.23,0:11:43.98,ssrly,,0,0,0,,Batılı bir kız...
+Dialogue: 9,0:11:43.98,0:11:47.45,ssrly,,0,0,0,,Sıradan bir kız desenler kullanarak gizli bir mesaj gönderebilir mi?
+Dialogue: 9,0:11:47.90,0:11:51.33,ssrly,,0,0,0,,Peki ya yanarken koşabilir mi?
+Dialogue: 9,0:11:52.23,0:11:55.95,ssrly,,0,0,0,,Okur yazar olan bir kız ve asbest hakkında bilgisi var...
+Dialogue: 9,0:11:55.95,0:11:59.85,ssrly,,0,0,0,,Öyle bir kız yabancı topraklarda yalnız dolaşır mıydı?
+Dialogue: 9,0:12:01.35,0:12:04.70,ssrly,,0,0,0,,Batı bölgesi, diğer ülkelerle\Nyaşanan küçük çatışmalarla doludur.
+Dialogue: 9,0:12:05.33,0:12:10.71,ssrly,,0,0,0,,Düşününce, Li'den gelen iki elçi de şüpheliydi.
+Dialogue: 9,0:12:11.78,0:12:16.15,ssrly,,0,0,0,,İçlerinden birinin Shi klanıyla bağlantısı var gibi görünüyordu.
+Dialogue: 9,0:12:16.95,0:12:21.83,ssrly,,0,0,0,,Belki de göksel bakire dedikleri de bir tür ajandı.
+Dialogue: 9,0:12:21.83,0:12:23.85,ssrly,,0,0,0,,Her neyse.
+Dialogue: 9,0:12:24.72,0:12:26.33,ssrly,,0,0,0,,Ç-Çilli?
+Dialogue: 9,0:00:00.00,0:12:38.23,ssrly,,0,0,0,,Hoş geldiniz!
+Dialogue: 9,0:12:38.23,0:12:40.43,ssrly,,0,0,0,,B-Bu da ne?
+Dialogue: 9,0:12:40.43,0:12:43.70,ssrly,,0,0,0,,Xiaomao, bu Efendi Jinshi.
+Dialogue: 9,0:12:43.70,0:12:45.55,ssrly,,0,0,0,,Biriyle karıştırmıyorsun değil mi?
+Dialogue: 9,0:12:49.75,0:12:51.30,ssrly,,0,0,0,,İçeri buyurun.
+Dialogue: 9,0:12:53.65,0:12:56.35,ssrly,,0,0,0,,Dikişler çıktığından şimdi daha iyi gözüküyor
+Dialogue: 9,0:12:56.76,0:12:58.76,ssrly,,0,0,0,,ama yara izi bıraktı.
+Dialogue: 9,0:12:58.76,0:13:00.76,ssrly,,0,0,0,,Benden bir şeye ihtiyacın yok muydu?
+Dialogue: 9,0:13:01.20,0:13:01.95,ssrly,,0,0,0,,Öyleydi.
+Dialogue: 9,0:13:02.55,0:13:03.88,ssrly,,0,0,0,,Lütfen buna bir göz atın.
+Dialogue: 9,0:13:04.76,0:13:05.65,ssrly,,0,0,0,,Bu nedir?
+Dialogue: 9,0:13:05.65,0:13:10.77,ssrly,,0,0,0,,Bir yağmacı bunu Shi kalesinden çaldı ve bir dükkâna sattı.
+Dialogue: 9,0:13:11.13,0:13:12.10,ssrly,,0,0,0,,Bunu nereden buldun?
+Dialogue: 9,0:13:12.77,0:13:14.77,ssrly,,0,0,0,,Kitapçıda şans eseri denk geldim.
+Dialogue: 9,0:13:15.70,0:13:19.33,ssrly,,0,0,0,,Ukyou diğer satılan kitapları da benim için topladı.
+Dialogue: 9,0:13:20.78,0:13:23.95,ssrly,,0,0,0,,Ukyou, bu adamı sana emanet edebilir miyim?
+Dialogue: 9,0:13:23.95,0:13:26.79,ssrly,,0,0,0,,Evet, zaten yardım lazımdı.
+Dialogue: 9,0:13:26.79,0:13:29.75,ssrly,,0,0,0,,Ama o Chou-u onu tanıyor, değil mi?
+Dialogue: 9,0:13:29.75,0:13:31.53,ssrly,,0,0,0,,Bu bir soruna yol açabilir.
+Dialogue: 9,0:13:32.00,0:13:33.73,ssrly,,0,0,0,,O zaman, adımı değiştiririm.
+Dialogue: 9,0:13:34.48,0:13:36.15,ssrly,,0,0,0,,Eski adıma bir bağlılığım yok.
+Dialogue: 9,0:13:36.80,0:13:39.85,ssrly,,0,0,0,,Sazen'e ne dersiniz?
+Dialogue: 9,0:13:40.80,0:13:44.05,ssrly,,0,0,0,,Yani, bu Sazen'in sattığı kitapların önemi ne?
+Dialogue: 9,0:13:44.43,0:13:49.73,ssrly,,0,0,0,,El konulan mallar arasında bu kitapların devamı olduğuna inanıyorum,\Nonları bulmak için yardıma ihtiyacım var.
+Dialogue: 9,0:13:49.73,0:13:51.20,ssrly,,0,0,0,,Onları bulup ne yapacaksın?
+Dialogue: 9,0:13:51.70,0:13:52.81,ssrly,,0,0,0,,Bunlardan
+Dialogue: 9,0:13:53.73,0:13:55.60,ssrly,,0,0,0,,dolayı.
+Dialogue: 9,0:13:55.60,0:13:56.82,ssrly,,0,0,0,,Bunlar da ne?!
+Dialogue: 9,0:13:56.82,0:14:01.03,ssrly,,0,0,0,,Kızartılmış çekirge. Aslında çoğu gri çekirge gerçi.
+Dialogue: 9,0:14:01.03,0:14:03.35,ssrly,,0,0,0,,Iyy... Onu yemeyeceğim!
+Dialogue: 9,0:14:03.93,0:14:05.50,ssrly,,0,0,0,,Bunu yapmanızı istemedim.
+Dialogue: 9,0:14:06.50,0:14:09.33,ssrly,,0,0,0,,Geçen yıl büyük bir gri çekirge salgını olduğunu duydum.
+Dialogue: 9,0:14:09.88,0:14:13.48,ssrly,,0,0,0,,Çiftçilikle uğraşan köylerden böcek hasarına dair bir rapor aldınız mı?
+Dialogue: 9,0:14:15.23,0:14:17.05,ssrly,,0,0,0,,O raporları gerçekten aldım.
+Dialogue: 9,0:14:17.05,0:14:19.28,ssrly,,0,0,0,,En çok etkilenenler kuzey köyleriydi.
+Dialogue: 9,0:14:20.08,0:14:22.84,ssrly,,0,0,0,,Ama ölümlere neden olacak kadar değildi.
+Dialogue: 9,0:14:24.05,0:14:28.85,ssrly,,0,0,0,,Bunu telafi etmek amacıyla onlara\Ngüney bölgesindeki Binan-shu'dan erzak gönderdik.
+Dialogue: 9,0:14:29.53,0:14:30.85,ssrly,,0,0,0,,Binan-shu?
+Dialogue: 9,0:14:30.85,0:14:31.45,ssrly,,0,0,0,,Evet.
+Dialogue: 9,0:14:32.43,0:14:36.86,ssrly,,0,0,0,,Bi klanından yardım istedik ve nazikçe kabul ettiler.
+Dialogue: 9,0:14:37.93,0:14:39.80,ssrly,,0,0,0,,Anlıyorum ancak
+Dialogue: 9,0:14:39.80,0:14:43.08,ssrly,,0,0,0,,bir çekirge salgını yıllarca sürebilir.
+Dialogue: 9,0:14:43.08,0:14:46.60,ssrly,,0,0,0,,Bir daha olursa sorunlara yol açabilir.
+Dialogue: 9,0:14:47.10,0:14:48.87,ssrly,,0,0,0,,Bu doğru ama...
+Dialogue: 9,0:14:49.80,0:14:55.35,ssrly,,0,0,0,,İnsanlar bazen, imparatorun ülkeyi düzgün yönetememesi\Ndurumunda çekirge istilası olduğunu söylerler.
+Dialogue: 9,0:14:56.25,0:15:01.30,ssrly,,0,0,0,,Aptalca bir batıl inanç ama Shi klanının yok edildiği yıl olursa...
+Dialogue: 9,0:15:01.30,0:15:03.53,ssrly,,0,0,0,,İnsanlar ne düşünürdü?
+Dialogue: 9,0:15:04.28,0:15:09.45,ssrly,,0,0,0,,Sokaklarda dolaşan kitaplar,\Nartık tam tersini söylemeye başlayabilir.
+Dialogue: 9,0:15:10.10,0:15:12.68,ssrly,,0,0,0,,Jinshi-sama'nın da bunun farkında olduğuna eminim.
+Dialogue: 9,0:15:13.35,0:15:15.70,ssrly,,0,0,0,,Çekirge istilaları doğal bir olgudur.
+Dialogue: 9,0:15:16.13,0:15:17.50,ssrly,,0,0,0,,Sen olsan ne yapardın?
+Dialogue: 9,0:15:18.13,0:15:20.63,ssrly,,0,0,0,,Onları çekmek için bir kamp ateşi mi yakalım?
+Dialogue: 9,0:15:20.63,0:15:22.90,ssrly,,0,0,0,,Yoksa onları tek tek ezelim mi?
+Dialogue: 9,0:15:23.63,0:15:26.63,ssrly,,0,0,0,,Bu yüzden bunları arıyorum.
+Dialogue: 9,0:15:26.63,0:15:30.91,ssrly,,0,0,0,,Bu kitaplar benden önce esir alınan eczacıdan kalma.
+Dialogue: 9,0:15:31.20,0:15:34.40,ssrly,,0,0,0,,Çekirge istilalarını durdurmanın\Nbir yolunu aradığını duydum.
+Dialogue: 9,0:15:35.23,0:15:36.28,ssrly,,0,0,0,,Gerçekten mi?
+Dialogue: 9,0:15:36.31,0:15:39.35,ssrly,,0,0,0,,Bu kitap çekirgeleri içermiyor.
+Dialogue: 9,0:15:39.35,0:15:42.35,ssrly,,0,0,0,,Böceklerle ilgili bir cilt daha olmalı.
+Dialogue: 9,0:15:42.35,0:15:44.92,ssrly,,0,0,0,,O hâlâ gözetim altında olabilir.
+Dialogue: 9,0:15:46.93,0:15:50.03,ssrly,,0,0,0,,Araştırmasını nereye kadar ilerletti bilmiyorum ama
+Dialogue: 9,0:15:50.03,0:15:51.88,ssrly,,0,0,0,,bakmaya değer olduğunu düşünüyorum.
+Dialogue: 9,0:15:53.30,0:15:54.03,ssrly,,0,0,0,,Gaoshun.
+Dialogue: 9,0:15:54.03,0:15:57.93,ssrly,,0,0,0,,Evet. Birkaç gün içinde elimize geçtiğinden emin olacağım.
+Dialogue: 9,0:15:58.60,0:16:01.53,ssrly,,0,0,0,,Eh, en azından mesajı iletebildim.
+Dialogue: 9,0:16:04.43,0:16:05.53,ssrly,,0,0,0,,Yorgun musunuz?
+Dialogue: 9,0:16:07.85,0:16:10.95,ssrly,,0,0,0,,Şey, evet biraz, ama iyiyim.
+Dialogue: 9,0:16:13.90,0:16:16.45,ssrly,,0,0,0,,Böyle devam ederse bayılabilir.
+Dialogue: 9,0:16:17.33,0:16:18.13,ssrly,,0,0,0,,Ne oldu?
+Dialogue: 9,0:16:18.96,0:16:20.40,ssrly,,0,0,0,,Uyumalı.
+Dialogue: 9,0:16:21.30,0:16:26.97,ssrly,,0,0,0,,Bu kadar yorgunsa bir yardımcı atayıp\Nbiraz dinlense iyi olur.
+Dialogue: 9,0:16:28.38,0:16:30.75,ssrly,,0,0,0,,Jinshi-sama, dinlenmek istemez misiniz?
+Dialogue: 9,0:16:31.50,0:16:32.75,ssrly,,0,0,0,,Aniden bu da nereden çıktı?
+Dialogue: 9,0:16:32.97,0:16:36.40,ssrly,,0,0,0,,Hemen sizin için bir yatak hazırlayayım.\NLütfen biraz uyuyun.
+Dialogue: 9,0:16:36.40,0:16:36.98,ssrly,,0,0,0,,B-Burada mı?
+Dialogue: 9,0:16:37.45,0:16:39.78,ssrly,,0,0,0,,Tek başınıza uyumakta zorluk mu çekiyorsunuz?
+Dialogue: 9,0:16:41.30,0:16:42.78,ssrly,,0,0,0,,Şakaydı.
+Dialogue: 9,0:16:42.78,0:16:44.00,ssrly,,0,0,0,,Biraz bekleyin lütfen-
+Dialogue: 9,0:16:44.00,0:16:45.73,ssrly,,0,0,0,,Evet, tek başıma uyumam.
+Dialogue: 9,0:16:48.99,0:16:51.70,ssrly,,0,0,0,,Anlıyorum, sanırım kendini yalnız hissediyor.
+Dialogue: 9,0:16:54.05,0:16:57.78,ssrly,,0,0,0,,Anlaşıldı. Biraz bekleyin lütfen.
+Dialogue: 9,0:16:58.05,0:16:59.33,ssrly,,0,0,0,,Fısır fısır
+Dialogue: 9,0:16:59.33,0:17:01.00,ssrly,,0,0,0,,Demek öyle?
+Dialogue: 9,0:17:01.00,0:17:03.25,ssrly,,0,0,0,,Hazırlanmak için zamana ihtiyacım var.
+Dialogue: 9,0:17:03.25,0:17:04.45,ssrly,,0,0,0,,Biliyorum.
+Dialogue: 9,0:17:05.00,0:17:07.35,ssrly,,0,0,0,,Otuz dakika.
+Dialogue: 9,0:17:07.35,0:17:10.35,ssrly,,0,0,0,,Sadece o kadar mı?
+Dialogue: 9,0:17:11.58,0:17:12.55,ssrly,,0,0,0,,Burası.
+Dialogue: 9,0:17:13.25,0:17:15.30,ssrly,,0,0,0,,Burada dinlenin lütfen.
+Dialogue: 9,0:17:15.88,0:17:19.02,ssrly,,0,0,0,,Çalışmak önemlidir,\Nancak dinlenmek hayati önem taşır.
+Dialogue: 9,0:17:19.70,0:17:23.83,ssrly,,0,0,0,,Yıkanmak isterseniz banyoda şifalı suyunuz hazır.
+Dialogue: 9,0:17:23.83,0:17:26.18,ssrly,,0,0,0,,Pijama olarak bunları kullanın lütfen.
+Dialogue: 9,0:17:26.83,0:17:27.25,ssrly,,0,0,0,,Tamam.
+Dialogue: 9,0:17:28.33,0:17:31.03,ssrly,,0,0,0,,Artık bu,\Nbir göksel bakirenin gülümsemesi değil.
+Dialogue: 9,0:17:31.03,0:17:33.35,ssrly,,0,0,0,,Ama yine de bu dünyanın ötesinde\Nbir güzelliğe sahip.
+Dialogue: 9,0:17:36.75,0:17:38.58,ssrly,,0,0,0,,Yalnız uyumayacağım, değil mi?
+Dialogue: 9,0:17:39.33,0:17:39.73,ssrly,,0,0,0,,Evet.
+Dialogue: 9,0:17:40.60,0:17:41.75,ssrly,,0,0,0,,Gidip yıkanacağım.
+Dialogue: 9,0:00:00.00,0:17:43.75,ssrly,,0,0,0,,Buyurun.
+Dialogue: 9,0:17:53.80,0:17:56.05,ssrly,,0,0,0,,Orada yarı çıplak kadınlar ne arıyor!?
+Dialogue: 9,0:17:56.05,0:17:59.06,ssrly,,0,0,0,,Profesyonel masörler. Masajları sevmez misiniz?
+Dialogue: 9,0:18:00.65,0:18:02.55,ssrly,,0,0,0,,Sadece masaj mı yapıyorlar?
+Dialogue: 9,0:18:02.55,0:18:04.58,ssrly,,0,0,0,,Genellikle devamı da olur.
+Dialogue: 9,0:18:05.06,0:18:06.68,ssrly,,0,0,0,,Boş ver, yıkanmayacağım.
+Dialogue: 9,0:18:06.68,0:18:08.45,ssrly,,0,0,0,,Üstünüzü değiştirmenize yardım edeyim mi?
+Dialogue: 9,0:18:08.80,0:18:10.35,ssrly,,0,0,0,,Kendim yaparım.
+Dialogue: 9,0:18:16.73,0:18:18.80,ssrly,,0,0,0,,Her zamanki gibi kaslı.
+Dialogue: 9,0:18:19.08,0:18:22.23,ssrly,,0,0,0,,Tüm iş yoğunluğu arasında\Nantrenman yapmak için de zaman ayırıyor.
+Dialogue: 9,0:18:25.45,0:18:25.83,ssrly,,0,0,0,,Buyurun.
+Dialogue: 9,0:18:27.09,0:18:28.80,ssrly,,0,0,0,,Bir tür uyku ilacı mı?
+Dialogue: 9,0:18:29.85,0:18:31.85,ssrly,,0,0,0,,{\i1}Enerji verici{\i0} bir tonik.
+Dialogue: 9,0:18:35.09,0:18:37.58,ssrly,,0,0,0,,Neden bana enerji veresin ki?
+Dialogue: 9,0:18:37.58,0:18:41.78,ssrly,,0,0,0,,Bir beyefendinin yorgunluğunu gidermek için\Nbunun en iyi yol olduğunu duydum.
+Dialogue: 9,0:18:42.43,0:18:45.10,ssrly,,0,0,0,,Bunun ne anlama geldiğini gerçekten anlıyor musun?
+Dialogue: 9,0:18:45.10,0:18:47.11,ssrly,,0,0,0,,Başka ne anlama gelebilir ki?
+Dialogue: 9,0:18:51.11,0:18:54.90,ssrly,,0,0,0,,Belki de bir beyefendiye karşı bile\Nbu kadar açık sözlü olmak uygunsuzdu?
+Dialogue: 9,0:18:55.73,0:18:57.12,ssrly,,0,0,0,,O zaman, Jinshi-sama.
+Dialogue: 9,0:18:57.14,0:18:58.65,ssrly,,0,0,0,,Uh, evet.
+Dialogue: 9,0:18:59.70,0:19:01.12,ssrly,,0,0,0,,Siz...
+Dialogue: 9,0:19:05.12,0:19:07.13,ssrly,,0,0,0,,Ne tür kızlardan hoşlanırsınız?
+Dialogue: 9,0:19:12.80,0:19:13.48,ssrly,,0,0,0,,Ne-?
+Dialogue: 9,0:19:15.83,0:19:17.14,ssrly,,0,0,0,,Bu...
+Dialogue: 9,0:19:18.13,0:19:22.05,ssrly,,0,0,0,,Leydi Suiren bana yaşıtınız olan\Nkızları tercih ettiğinizi söyledi.
+Dialogue: 9,0:19:22.05,0:19:25.38,ssrly,,0,0,0,,Hepsi {\i1}el değmemiş durumda{\i0}, bu yüzden içiniz rahat olsun.
+Dialogue: 9,0:19:26.80,0:19:28.48,ssrly,,0,0,0,,Hiçbiri ilginizi çekmiyor mu?
+Dialogue: 9,0:19:29.15,0:19:33.15,ssrly,,0,0,0,,Ben gerçekten yorgunum, lütfen sadece yatmama izin ver.
+Dialogue: 9,0:19:33.15,0:19:34.50,ssrly,,0,0,0,,Peki ya hangi kızla-
+Dialogue: 9,0:19:34.50,0:19:35.88,ssrly,,0,0,0,,Yani gerçek manasıyla!
+Dialogue: 9,0:19:38.35,0:19:40.10,ssrly,,0,0,0,,Onun yerine siz eğlenmek ister misiniz?
+Dialogue: 9,0:19:40.10,0:19:44.30,ssrly,,0,0,0,,Karım çok disiplinlidir ve kızım da oldukça titizdir.
+Dialogue: 9,0:19:44.30,0:19:49.17,ssrly,,0,0,0,,Anlıyorum. Evli bir adama bir fahişe önermek zor iş.
+Dialogue: 9,0:19:49.17,0:19:54.28,ssrly,,0,0,0,,Kızının "Babacığım kirlisin, benden önce banyo yapma."\Ndemesi nasıl bir his biliyor musun?
+Dialogue: 9,0:19:54.28,0:19:55.85,ssrly,,0,0,0,,Anlıyorum.
+Dialogue: 9,0:19:55.85,0:19:57.65,ssrly,,0,0,0,,En azından kızın duygularını.
+Dialogue: 9,0:20:06.95,0:20:09.19,ssrly,,0,0,0,,O zaman müsaadenizle.
+Dialogue: 9,0:20:16.55,0:20:18.30,ssrly,,0,0,0,,En azından bana bir ninni söyle.
+Dialogue: 9,0:20:31.21,0:20:32.43,ssrly,,0,0,0,,Bunda iyi değilim.
+Dialogue: 9,0:20:32.43,0:20:33.70,ssrly,,0,0,0,,Umurumda değil.
+Dialogue: 9,0:20:42.15,0:20:48.35,ssrly,,0,0,0,,{\i1}Uyu, bebeğim uyu,
+Dialogue: 9,0:20:48.35,0:20:54.55,ssrly,,0,0,0,,{\i1}O bebek hep ağlıyor.
+Dialogue: 9,0:20:56.18,0:21:02.75,ssrly,,0,0,0,,{\i1}Küçük kuşlar, ne kadar da masumlar.
+Dialogue: 9,0:21:03.53,0:21:10.18,ssrly,,0,0,0,,{\i1}Uzaklara, göğe uçtular.
+Dialogue: 9,0:21:10.93,0:21:14.13,ssrly,,0,0,0,,{\i1}Uyu, bebeğim, uyu.
+Dialogue: 9,0:21:14.13,0:21:17.26,ssrly,,0,0,0,,{\i1}Uyu bebeğim.
+Dialogue: 9,0:21:17.83,0:21:24.60,ssrly,,0,0,0,,{\i1}Bu gece güzelce uyu, yarın görüşelim.
+Dialogue: 9,0:21:32.60,0:21:34.73,ssrly,,0,0,0,,Gözlerinin altındaki\Nmorluklar gitti.
+Dialogue: 9,0:21:34.73,0:21:38.08,ssrly,,0,0,0,,Uyandıktan sonra üç kâse yulaf lapası yedi.\NHerhâlde artık iyidir.
+Dialogue: 9,0:21:38.08,0:21:39.28,ssrly,,0,0,0,,Maomao.
+Dialogue: 9,0:21:41.28,0:21:42.20,ssrly,,0,0,0,,Pairin abla.
+Dialogue: 9,0:21:42.93,0:21:45.70,ssrly,,0,0,0,,Neden bunu bir an önce kabul etmiyorsun?
+Dialogue: 9,0:21:47.29,0:21:48.98,ssrly,,0,0,0,,Her neyse.
+Dialogue: 9,0:22:06.58,0:22:07.31,ssrly,,0,0,0,,Buyurun.

@@ -1,0 +1,346 @@
+[Script Info]
+Title: pn-SomeSubs - The Apothecary Diaries Season 3
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ssrly,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,60,1
+Style: Default,Trebuchet MS,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:31.00,0:01:41.00,ssrly,,0,0,0,,{\fs40\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever}\N\N{\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Riley\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} RassaX\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub\N
+Dialogue: 0,0:01:42.90,0:01:45.29,ssrly,,0,0,0,,Tam da beklediğim gibi, Loumen.
+Dialogue: 0,0:01:45.86,0:01:49.44,ssrly,,0,0,0,,Her türlü ilacı ustalıkla hazırlayabiliyorsun.
+Dialogue: 0,0:01:50.19,0:01:53.01,ssrly,,0,0,0,,Hepsi bana yardım etmen sayesinde, Guen.
+Dialogue: 0,0:01:53.25,0:01:54.30,ssrly,,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:01:54.47,0:01:58.28,ssrly,,0,0,0,,Geldiğine çok sevindim, Loumen.
+Dialogue: 0,0:01:58.43,0:02:02.40,ssrly,,0,0,0,,Özellikle genç hanım ve arkadaşı görev sürelerini tamamladıklarından beri...
+Dialogue: 0,0:02:04.72,0:02:05.65,ssrly,,0,0,0,,Affedersiniz.
+Dialogue: 0,0:02:06.11,0:02:07.60,ssrly,,0,0,0,,Bu size geldi.
+Dialogue: 0,0:02:08.77,0:02:10.88,ssrly,,0,0,0,,Ah, bu da ne acaba?
+Dialogue: 0,0:02:20.72,0:02:22.70,ssrly,,0,0,0,,Tamam, bunu nasıl halletmeliyim?
+Dialogue: 0,0:02:23.18,0:02:27.49,ssrly,,0,0,0,,Jinshi-sama, neden sürekli beni rahatsız etmekte ısrar ediyor?
+Dialogue: 0,0:02:28.13,0:02:30.43,ssrly,,0,0,0,,İstesem de reddedemem.
+Dialogue: 0,0:02:35.74,0:02:38.14,ssrly,,0,0,0,,Yaşlı kadını nasıl ikna edeceğim?
+Dialogue: 0,0:02:47.14,0:02:48.38,ssrly,,0,0,0,,Otlu çörek!
+Dialogue: 0,0:02:49.11,0:02:50.15,ssrly,,0,0,0,,Otlu çörek!
+Dialogue: 0,0:02:53.23,0:02:54.85,ssrly,,0,0,0,,Bekle bi saniye!
+Dialogue: 0,0:02:55.65,0:02:56.74,ssrly,,0,0,0,,Ne yapıyorsun!?
+Dialogue: 0,0:02:59.79,0:03:04.42,ssrly,,0,0,0,,Böyle bir yerde kurtboğan otuna rastlamayı nasıl becerdiniz?
+Dialogue: 0,0:03:05.47,0:03:07.17,ssrly,,0,0,0,,Ne? Bu pelin otu değil mi?
+Dialogue: 0,0:03:07.17,0:03:08.51,ssrly,,0,0,0,,Benziyorlar ama hayır.
+Dialogue: 0,0:03:08.51,0:03:10.86,ssrly,,0,0,0,,Bununla otlu çörek yaparsanız ölürsünüz.
+Dialogue: 0,0:03:12.17,0:03:13.82,ssrly,,0,0,0,,Eee, peki ya otlu çörek?
+Dialogue: 0,0:03:13.82,0:03:14.80,ssrly,,0,0,0,,Pes edin.
+Dialogue: 0,0:03:16.82,0:03:19.01,ssrly,,0,0,0,,O zaman bize biraz pelin otu ver.
+Dialogue: 0,0:03:19.44,0:03:21.23,ssrly,,0,0,0,,Dün onlardan toplamadın mı?
+Dialogue: 0,0:03:22.18,0:03:24.06,ssrly,,0,0,0,,Onu moksibüsyon için kullanıyorum.
+Dialogue: 0,0:03:22.18,0:03:24.06,ssrly,,0,0,0,,{\pos(936,148)}(Geleneksel bir ağrı kesici tedavisi.)
+Dialogue: 0,0:03:24.46,0:03:25.54,ssrly,,0,0,0,,Cimri!
+Dialogue: 0,0:03:27.94,0:03:29.19,ssrly,,0,0,0,,Çok kötüsün!
+Dialogue: 0,0:03:29.19,0:03:30.86,ssrly,,0,0,0,,Nasıl kötü olan ben oluyorum?
+Dialogue: 0,0:03:30.86,0:03:34.19,ssrly,,0,0,0,,Hem dışarıda yalnız başınıza dolaşmayın demedim mi?
+Dialogue: 0,0:03:34.99,0:03:37.28,ssrly,,0,0,0,,Sazen'le beraberdik.
+Dialogue: 0,0:03:38.70,0:03:41.03,ssrly,,0,0,0,,Beni bekleyin lütfen!
+Dialogue: 0,0:03:41.03,0:03:43.87,ssrly,,0,0,0,,Artık eskisi kadar genç değilim.
+Dialogue: 0,0:03:44.38,0:03:49.88,ssrly,,0,0,0,,Eğer bu çocuklara akıl veremiyorsam, onlara göz kulak olan yetişkine bir ders vermem gerekecek.
+Dialogue: 0,0:03:51.06,0:03:52.21,ssrly,,0,0,0,,Burada bekleyin.
+Dialogue: 0,0:03:58.22,0:04:00.40,ssrly,,0,0,0,,Bunların ne olduklarını biliyor musun?
+Dialogue: 0,0:04:03.62,0:04:06.27,ssrly,,0,0,0,,Yabani pelin otu ve kurtboğan otu, değil mi?
+Dialogue: 0,0:04:07.50,0:04:10.37,ssrly,,0,0,0,,Onları daha sonra gizlice değiştirecektim,
+Dialogue: 0,0:04:11.01,0:04:12.56,ssrly,,0,0,0,,ama benden kaçtılar.
+Dialogue: 0,0:04:13.12,0:04:14.43,ssrly,,0,0,0,,İşte buyur.
+Dialogue: 0,0:04:15.10,0:04:16.46,ssrly,,0,0,0,,Bu pelin otu!
+Dialogue: 0,0:04:18.24,0:04:18.72,ssrly,,0,0,0,,Gidelim!
+Dialogue: 0,0:04:21.28,0:04:22.36,ssrly,,0,0,0,,Bu da senin için.
+Dialogue: 0,0:04:23.64,0:04:24.87,ssrly,,0,0,0,,Kurtboğan soğanı.
+Dialogue: 0,0:04:25.71,0:04:27.64,ssrly,,0,0,0,,Tehlikeli olduğundan kökünden söktüm.
+Dialogue: 0,0:04:27.98,0:04:30.63,ssrly,,0,0,0,,Bunu kurutursan doğal ilaç olarak kullanabilirsin değil mi?
+Dialogue: 0,0:04:31.10,0:04:32.00,ssrly,,0,0,0,,"Aconit tuber" miydi?
+Dialogue: 0,0:04:32.62,0:04:34.66,ssrly,,0,0,0,,Bunun boşa gitmesine izin vermek yazık olur.
+Dialogue: 0,0:04:35.33,0:04:36.96,ssrly,,0,0,0,,O az önce ne dedi?
+Dialogue: 0,0:04:37.63,0:04:41.23,ssrly,,0,0,0,,Neden kurtboğan soğanıyla yapılan ilacın adını biliyor?
+Dialogue: 0,0:04:42.19,0:04:47.56,ssrly,,0,0,0,,Muhtemelen biri çiçekleri güzel bulduğu için dağdan getirip buraya ekmiş-
+Dialogue: 0,0:04:53.97,0:04:54.60,ssrly,,0,0,0,,Bu nedir?
+Dialogue: 0,0:04:56.28,0:04:57.55,ssrly,,0,0,0,,Yenidünya yaprağı, değil mi?
+Dialogue: 0,0:04:57.86,0:04:58.44,ssrly,,0,0,0,,Ne işe yarar?
+Dialogue: 0,0:04:58.97,0:05:01.28,ssrly,,0,0,0,,Sanırım öksürük ve ishal tedavisinde kullanılıyor.
+Dialogue: 0,0:05:01.82,0:05:02.99,ssrly,,0,0,0,,Başka işlevleri de var.
+Dialogue: 0,0:05:03.38,0:05:03.72,ssrly,,0,0,0,,Bu?
+Dialogue: 0,0:05:03.91,0:05:06.11,ssrly,,0,0,0,,Altın otu, bağırsaklara ve mideye iyi gelir.
+Dialogue: 0,0:05:06.55,0:05:08.38,ssrly,,0,0,0,,Ayrıca bir sakinleştirici, değil mi?
+Dialogue: 0,0:05:09.05,0:05:09.45,ssrly,,0,0,0,,Ve bu?
+Dialogue: 0,0:05:10.19,0:05:11.66,ssrly,,0,0,0,,O yabani muz yaprağı,
+Dialogue: 0,0:05:12.18,0:05:14.15,ssrly,,0,0,0,,Bekle, bunu neden yapıyoruz?
+Dialogue: 0,0:05:14.48,0:05:15.62,ssrly,,0,0,0,,Sadece devam et.
+Dialogue: 0,0:05:19.30,0:05:22.46,ssrly,,0,0,0,,Buradakilerin neredeyse yarısını biliyorsun, hah?
+Dialogue: 0,0:05:23.70,0:05:25.29,ssrly,,0,0,0,,Cidden bu neyle ilgili?
+Dialogue: 0,0:05:25.75,0:05:27.53,ssrly,,0,0,0,,Okumayı biliyor musun?
+Dialogue: 0,0:05:28.82,0:05:30.91,ssrly,,0,0,0,,Evet, kaledeki yaşlı adam öğretmişti.
+Dialogue: 0,0:05:31.75,0:05:34.71,ssrly,,0,0,0,,Sana bu şifalı bitkileride o mu öğretti?
+Dialogue: 0,0:05:34.71,0:05:35.68,ssrly,,0,0,0,,Evet, öyle.
+Dialogue: 0,0:05:36.46,0:05:37.56,ssrly,,0,0,0,,Anlıyorum.
+Dialogue: 0,0:05:38.32,0:05:40.09,ssrly,,0,0,0,,Bu işe yarar bir yanlışlık.
+Dialogue: 0,0:05:40.32,0:05:42.32,ssrly,,0,0,0,,Bir hızlandırılmış kurs işe yarayabilir.
+Dialogue: 0,0:05:42.77,0:05:44.53,ssrly,,0,0,0,,O halde bunu ezberle.
+Dialogue: 0,0:05:45.65,0:05:47.87,ssrly,,0,0,0,,Ve gündüzleri buraya gelmeye başlasan iyi olur.
+Dialogue: 0,0:05:49.32,0:05:50.44,ssrly,,0,0,0,,Yapacak işlerim var benim!
+Dialogue: 0,0:05:50.66,0:05:53.00,ssrly,,0,0,0,,Yaşlı kadına ve Ukyou'ya ben açıklama yaparım.
+Dialogue: 0,0:05:53.42,0:05:57.31,ssrly,,0,0,0,,Hem uşaklık işlerinde iyi bile değilsin,değil mi?
+Dialogue: 0,0:05:58.69,0:06:00.42,ssrly,,0,0,0,,Ah, pek değil...
+Dialogue: 0,0:06:01.02,0:06:03.98,ssrly,,0,0,0,,Eczacı işlerine daha uygun değil misin?
+Dialogue: 0,0:06:05.36,0:06:07.35,ssrly,,0,0,0,,Jinshi-sama ile olan bağlantım nedeniyle
+Dialogue: 0,0:06:07.55,0:06:09.57,ssrly,,0,0,0,,burayı çok boşluyorum.
+Dialogue: 0,0:06:10.08,0:06:12.06,ssrly,,0,0,0,,Eğer Sazen bir eczacı olursa...
+Dialogue: 0,0:06:14.62,0:06:16.70,ssrly,,0,0,0,,Ben sadece bir çifçiyim.
+Dialogue: 0,0:06:17.66,0:06:20.36,ssrly,,0,0,0,,O kaleye çaressizlikten gittim.
+Dialogue: 0,0:06:28.84,0:06:33.37,ssrly,,0,0,0,,Demek istediğim, şifalı otları sadece yaşlı adam benden toplamamı istediği için biliyorum.
+Dialogue: 0,0:06:33.37,0:06:34.37,ssrly,,0,0,0,,Yani?
+Dialogue: 0,0:06:35.53,0:06:39.25,ssrly,,0,0,0,,Gelirlerini soğuk algınlığını iyileştiren büyüler satarak kazananlar bile var.
+Dialogue: 0,0:06:39.25,0:06:40.54,ssrly,,0,0,0,,Onlarla karşılaştırılırsa,
+Dialogue: 0,0:06:40.54,0:06:42.92,ssrly,,0,0,0,,sen en azından ateş düşürücü yapabilirsin, değil mi?
+Dialogue: 0,0:06:43.67,0:06:44.78,ssrly,,0,0,0,,Sanırım..
+Dialogue: 0,0:06:45.49,0:06:46.95,ssrly,,0,0,0,,Ama önemli hastalıklara...
+Dialogue: 0,0:06:47.27,0:06:50.10,ssrly,,0,0,0,,Bir şeyi yapamazsan dürüstçe söyle yeter.
+Dialogue: 0,0:06:50.88,0:06:51.15,ssrly,,0,0,0,,Ha?
+Dialogue: 0,0:06:52.39,0:06:54.16,ssrly,,0,0,0,,İlaç alsınlar ya da almasınlar
+Dialogue: 0,0:06:54.16,0:06:55.41,ssrly,,0,0,0,,ölecek olanlar ölür.
+Dialogue: 0,0:06:56.22,0:06:57.58,ssrly,,0,0,0,,Eğer düzgün teşhis koyamazsan
+Dialogue: 0,0:06:57.58,0:06:58.98,ssrly,,0,0,0,,bırak bir başkası halletsin.
+Dialogue: 0,0:06:59.68,0:07:03.06,ssrly,,0,0,0,,Dışarıdaki pek çok gerçek doktordan daha iyi ilaç üretebilirsin.
+Dialogue: 0,0:07:03.36,0:07:05.36,ssrly,,0,0,0,,Mesela şarlatan doktor.
+Dialogue: 0,0:07:06.11,0:07:07.46,ssrly,,0,0,0,,Neyse, karar verildi.
+Dialogue: 0,0:07:11.39,0:07:12.58,ssrly,,0,0,0,,Bunların hepsini ezberle.
+Dialogue: 0,0:07:13.02,0:07:14.49,ssrly,,0,0,0,,Yaşlı kadına söyleyip geliyorum.
+Dialogue: 0,0:07:16.01,0:07:17.63,ssrly,,0,0,0,,Karara çok hızlı varmadın mı?
+Dialogue: 0,0:07:18.21,0:07:20.19,ssrly,,0,0,0,,Hızlı olmazsak yetişemeyeceğim.
+Dialogue: 0,0:07:24.50,0:07:25.57,ssrly,,0,0,0,,Tahmin ettiğim gibi.
+Dialogue: 0,0:07:26.24,0:07:27.91,ssrly,,0,0,0,,Sazen hızlı öğrendi.
+Dialogue: 0,0:07:28.91,0:07:31.06,ssrly,,0,0,0,,Basit karışımları kolayca hatırlayabiliyor,
+Dialogue: 0,0:07:31.56,0:07:34.66,ssrly,,0,0,0,,ve ne kadar beceriksizce olsa da resimleri takip ediyor.
+Dialogue: 0,0:07:36.08,0:07:38.44,ssrly,,0,0,0,,Bunları Chou-u'ya da öğrettim ama,
+Dialogue: 0,0:07:38.44,0:07:41.11,ssrly,,0,0,0,,haylaz çocuğun hiç ilgisi yoktu.
+Dialogue: 0,0:07:50.87,0:07:53.01,ssrly,,0,0,0,,Bu ilaçları yandaki dükkana götürüyorum.
+Dialogue: 0,0:07:53.47,0:07:53.83,ssrly,,0,0,0,,Tamam.
+Dialogue: 0,0:07:56.65,0:07:58.02,ssrly,,0,0,0,,Bu işe yarayabilir.
+Dialogue: 0,0:08:04.64,0:08:06.70,ssrly,,0,0,0,,Sen burada ne arıyorsun?
+Dialogue: 0,0:08:09.34,0:08:12.72,ssrly,,0,0,0,,Canım Maomaom! Beni bekle!
+Dialogue: 0,0:08:17.10,0:08:20.07,ssrly,,0,0,0,,Genç hanım, görüşmeyeli çok oldu.
+Dialogue: 0,0:08:28.27,0:08:30.05,ssrly,,0,0,0,,Sonunda nefeslenebildim.
+Dialogue: 0,0:08:30.25,0:08:32.12,ssrly,,0,0,0,,O değilde, burada ne işin var?
+Dialogue: 0,0:08:32.74,0:08:33.96,ssrly,,0,0,0,,Arka saraydaki işlerin-
+Dialogue: 0,0:08:35.45,0:08:37.17,ssrly,,0,0,0,,Yoksa sonunda kovuldu mu?
+Dialogue: 0,0:08:37.46,0:08:40.98,ssrly,,0,0,0,,İyi biri ama maaşını hak etmiyor.
+Dialogue: 0,0:08:41.34,0:08:42.50,ssrly,,0,0,0,,Her neyse.
+Dialogue: 0,0:08:43.11,0:08:46.13,ssrly,,0,0,0,,Genç Hanım, yanlış bir fikre kapıldınız galiba.
+Dialogue: 0,0:08:46.69,0:08:48.51,ssrly,,0,0,0,,Bana biraz tatil izni verildi.
+Dialogue: 0,0:08:48.51,0:08:51.55,ssrly,,0,0,0,,Ve uzun zamandır beklediğim ev ziyaretine onay.
+Dialogue: 0,0:08:53.18,0:08:54.66,ssrly,,0,0,0,,Eve gönderiliyorsunuz yani.
+Dialogue: 0,0:08:55.12,0:08:56.60,ssrly,,0,0,0,,Kovulmuşum gibi söylüyorsun.
+Dialogue: 0,0:08:57.32,0:09:00.74,ssrly,,0,0,0,,Eh, eve dönmek için gerçekten de tuhaf şartları kabul etmek zorunda kaldım.
+Dialogue: 0,0:09:01.09,0:09:03.36,ssrly,,0,0,0,,Sen bir şey duydun mu?
+Dialogue: 0,0:09:04.66,0:09:05.84,ssrly,,0,0,0,,Ne tür şartlar?
+Dialogue: 0,0:09:06.34,0:09:10.00,ssrly,,0,0,0,,Duyduğuma göre belirli biri benimle birlikte seyahate çıkmak istemiş.
+Dialogue: 0,0:09:10.53,0:09:12.23,ssrly,,0,0,0,,Hadım müdürün isteğiyle.
+Dialogue: 0,0:09:12.70,0:09:14.53,ssrly,,0,0,0,,Görünüşe göre önemli biriymiş.
+Dialogue: 0,0:09:14.53,0:09:16.54,ssrly,,0,0,0,,Benimle bu dükkanda buluşacakmış.
+Dialogue: 0,0:09:17.82,0:09:18.65,ssrly,,0,0,0,,Öyle miydi?
+Dialogue: 0,0:09:20.06,0:09:22.91,ssrly,,0,0,0,,Biraz daha vaktim var sanıyordum.
+Dialogue: 0,0:09:25.44,0:09:26.86,ssrly,,0,0,0,,Yolculuğa çıkacağım.
+Dialogue: 0,0:09:27.24,0:09:28.12,ssrly,,0,0,0,,Benimle gel.
+Dialogue: 0,0:09:29.51,0:09:31.70,ssrly,,0,0,0,,Jinshi-sama'nın mektubu tek taraflıydı.
+Dialogue: 0,0:09:31.89,0:09:35.85,ssrly,,0,0,0,,Ne kadarlığına ya da nereye \Nbahsetmiyordu, gidiş tarihi bile yoktu.
+Dialogue: 0,0:09:37.23,0:09:41.12,ssrly,,0,0,0,,Sazen'e ilaçlar hakkında öğretmeye \Nbu yüzden bu kadar acele ettim.
+Dialogue: 0,0:09:41.12,0:09:43.90,ssrly,,0,0,0,,Geriye bırakmak için biraz ilaç da hazırladım.
+Dialogue: 0,0:09:44.56,0:09:45.36,ssrly,,0,0,0,,Yine de
+Dialogue: 0,0:09:45.79,0:09:47.36,ssrly,,0,0,0,,Şarlatan doktor neden geliyor?
+Dialogue: 0,0:09:47.89,0:09:48.57,ssrly,,0,0,0,,Ne neden..
+Dialogue: 0,0:09:51.10,0:09:52.57,ssrly,,0,0,0,,Ah bir kedi!
+Dialogue: 0,0:09:56.10,0:09:57.14,ssrly,,0,0,0,,Bekle!
+Dialogue: 0,0:09:59.22,0:10:00.46,ssrly,,0,0,0,,Afiyet olsun!
+Dialogue: 0,0:10:06.33,0:10:07.71,ssrly,,0,0,0,,Bu da kim?
+Dialogue: 0,0:10:11.94,0:10:14.25,ssrly,,0,0,0,,Bu kedinin derdi ne!?
+Dialogue: 0,0:10:14.43,0:10:15.14,ssrly,,0,0,0,,Yemek salonu.
+Dialogue: 0,0:10:21.98,0:10:23.33,ssrly,,0,0,0,,Amca, sen kimsin?
+Dialogue: 0,0:10:24.10,0:10:25.81,ssrly,,0,0,0,,Ah, çok üzgünüm..
+Dialogue: 0,0:10:26.10,0:10:28.43,ssrly,,0,0,0,,Kötü kedi! Böyle yapma Maomao.
+Dialogue: 0,0:10:30.22,0:10:31.09,ssrly,,0,0,0,,Maomao?
+Dialogue: 0,0:10:31.38,0:10:32.61,ssrly,,0,0,0,,O isimde ne?
+Dialogue: 0,0:10:32.61,0:10:33.45,ssrly,,0,0,0,,Sus.
+Dialogue: 0,0:10:34.83,0:10:36.45,ssrly,,0,0,0,,Buna göz kulak olun.
+Dialogue: 0,0:10:38.16,0:10:39.30,ssrly,,0,0,0,,Kaçmasına izin vermeyin.
+Dialogue: 0,0:10:39.60,0:10:40.62,ssrly,,0,0,0,,Tabii!
+Dialogue: 0,0:10:41.91,0:10:45.08,ssrly,,0,0,0,,Maomao'yla ailemin ilgilenmesine karar verdim.
+Dialogue: 0,0:10:46.12,0:10:49.82,ssrly,,0,0,0,,Arka sarayda evcil hayvan bakabilecek kimse yok.
+Dialogue: 0,0:10:50.44,0:10:54.24,ssrly,,0,0,0,,Prenses Lingli İmparatoriçe Gyokuyou ile beraber arka saraydan ayrıldı değil mi?
+Dialogue: 0,0:10:54.76,0:10:57.55,ssrly,,0,0,0,,Maomao'yu yanlarına alamamışlar.
+Dialogue: 0,0:10:57.86,0:11:00.70,ssrly,,0,0,0,,Arka saray dışında hiç bir yer ona izin vermemiş olmalı.
+Dialogue: 0,0:11:01.18,0:11:03.10,ssrly,,0,0,0,,Kurallar sinir bozucu şekilde sıkı.
+Dialogue: 0,0:11:03.58,0:11:08.65,ssrly,,0,0,0,,Kız kardeşim bu durumdan memnun, bir kedinin fare sorununu çözebileceğini düşünüyor.
+Dialogue: 0,0:11:10.04,0:11:13.73,ssrly,,0,0,0,,Kağıt yapımıyla alakalı mektubu gönderen kardeşin mi?
+Dialogue: 0,0:11:15.15,0:11:16.02,ssrly,,0,0,0,,Evet.
+Dialogue: 0,0:11:16.35,0:11:19.99,ssrly,,0,0,0,,Bana gönderdiği başka bir mektuptan dolayı endişeliyim.
+Dialogue: 0,0:11:20.15,0:11:20.66,ssrly,,0,0,0,,Ne dedi?
+Dialogue: 0,0:11:21.29,0:11:25.28,ssrly,,0,0,0,,Burada konuşamam, köye varınca anlatırım.
+Dialogue: 0,0:11:31.46,0:11:32.44,ssrly,,0,0,0,,Hazır mısın?
+Dialogue: 0,0:11:38.85,0:11:40.68,ssrly,,0,0,0,,Basen, bu görünüşün-
+Dialogue: 0,0:11:43.40,0:11:45.18,ssrly,,0,0,0,,Hazırlıktan bahsediyorsunuz ama,
+Dialogue: 0,0:11:45.38,0:11:46.86,ssrly,,0,0,0,,Çok ani olmadı mı?
+Dialogue: 0,0:11:47.44,0:11:49.35,ssrly,,0,0,0,,Bizimde kendi sebeplerimiz var.
+Dialogue: 0,0:11:50.06,0:11:53.40,ssrly,,0,0,0,,Kılıç değiştirmeyi gerektirecek nedenler.
+Dialogue: 0,0:11:58.70,0:11:59.90,ssrly,,0,0,0,,Çok iyi yapılmış.
+Dialogue: 0,0:12:00.17,0:12:02.70,ssrly,,0,0,0,,Gerçekten Basen'in astı gibi duruyor.
+Dialogue: 0,0:12:02.70,0:12:05.49,ssrly,,0,0,0,,Şarlatan doktor hiç bir şey fark etmedi.
+Dialogue: 0,0:12:05.97,0:12:08.71,ssrly,,0,0,0,,Beklendiği gibi, Basen biraz gergin görünüyor.
+Dialogue: 0,0:12:08.91,0:12:10.15,ssrly,,0,0,0,,Sen de bin.
+Dialogue: 0,0:12:10.46,0:12:12.10,ssrly,,0,0,0,,Bavulunu çoktan hazırladık.
+Dialogue: 0,0:12:13.82,0:12:14.19,ssrly,,0,0,0,,Evet.
+Dialogue: 0,0:12:15.10,0:12:18.27,ssrly,,0,0,0,,Eğer gizlice gidiyorsak, muhtemelen \Nuzun bir yolculuk olacak.
+Dialogue: 0,0:12:23.54,0:12:25.98,ssrly,,0,0,0,,Yazık adama, zaten çok meşgul.
+Dialogue: 0,0:12:26.39,0:12:28.20,ssrly,,0,0,0,,İmparator'un erkek kardeşine
+Dialogue: 0,0:12:28.20,0:12:30.15,ssrly,,0,0,0,,patronluk taslamakta hiç tereddütü yok.
+Dialogue: 0,0:12:31.36,0:12:34.52,ssrly,,0,0,0,,Bu davranışlar sanki kendi varisini yetiştiriyor-
+Dialogue: 0,0:12:36.74,0:12:37.70,ssrly,,0,0,0,,Boş ver, boş ver.
+Dialogue: 0,0:12:39.02,0:12:40.51,ssrly,,0,0,0,,Varis zaten var.
+Dialogue: 0,0:12:41.10,0:12:43.23,ssrly,,0,0,0,,Leydi Lihua'ın da bir oğlu oldu.
+Dialogue: 0,0:12:43.89,0:12:46.23,ssrly,,0,0,0,,Ve İmparator henüz genç.
+Dialogue: 0,0:12:55.62,0:12:59.67,ssrly,,0,0,0,,Rahatsız edici düşüncelere fazla takılmayalım.
+Dialogue: 0,0:13:03.66,0:13:05.82,ssrly,,0,0,0,,Sallantılı bir arabada iki gün geçirdikten sonra,
+Dialogue: 0,0:13:06.38,0:13:09.70,ssrly,,0,0,0,,Şarlatan'ın köyüne, başkentin güneybatısına vardık.
+Dialogue: 0,0:13:15.25,0:13:16.70,ssrly,,0,0,0,,Onlar arpa.
+Dialogue: 0,0:13:18.34,0:13:20.88,ssrly,,0,0,0,,Sulama sisteminiz iyi düzenlenmiş.
+Dialogue: 0,0:13:21.70,0:13:23.54,ssrly,,0,0,0,,Bu yazlık pirinç ekimi içindir.
+Dialogue: 0,0:13:23.98,0:13:24.78,ssrly,,0,0,0,,Pirinç ve arpa.
+Dialogue: 0,0:13:25.12,0:13:26.79,ssrly,,0,0,0,,Bir yılda iki ayrı mahsül üretiyoruz.
+Dialogue: 0,0:13:27.44,0:13:31.67,ssrly,,0,0,0,,Pirinç su birikintileri sayesinde toprağı tüketmeden aynı arazide ekin yetiştirebiliriz.
+Dialogue: 0,0:13:32.05,0:13:33.78,ssrly,,0,0,0,,Bu kapsamlı bir arazi.
+Dialogue: 0,0:13:34.42,0:13:37.38,ssrly,,0,0,0,,Nehir yakın ve ulaşımda kolay gözüküyor.
+Dialogue: 0,0:13:40.17,0:13:42.14,ssrly,,0,0,0,,Kedilere alışkın değil mi?
+Dialogue: 0,0:13:42.60,0:13:44.65,ssrly,,0,0,0,,İyi olmadığı bir şey daha.
+Dialogue: 0,0:13:53.01,0:13:53.54,ssrly,,0,0,0,,Bu da neydi?
+Dialogue: 0,0:14:05.60,0:14:08.91,ssrly,,0,0,0,,Abiciğim hoş geldin.
+Dialogue: 0,0:14:10.62,0:14:12.25,ssrly,,0,0,0,,Evet, evde olmak güzel.
+Dialogue: 0,0:14:13.14,0:14:15.15,ssrly,,0,0,0,,Abi, bahsettiğin kedi bumu?
+Dialogue: 0,0:14:18.36,0:14:20.36,ssrly,,0,0,0,,Ah, çok tatlı.
+Dialogue: 0,0:14:21.30,0:14:24.26,ssrly,,0,0,0,,Daha önemlisi, bu kişiler misafirlerin mi?
+Dialogue: 0,0:14:24.73,0:14:26.04,ssrly,,0,0,0,,E-evet.
+Dialogue: 0,0:14:26.63,0:14:28.34,ssrly,,0,0,0,,Anlıyorum, anlıyorum.
+Dialogue: 0,0:14:28.85,0:14:31.42,ssrly,,0,0,0,,Üstlerin ve asistanların mı?
+Dialogue: 0,0:14:31.52,0:14:32.85,ssrly,,0,0,0,,"Asistan" demek.
+Dialogue: 0,0:14:34.85,0:14:36.69,ssrly,,0,0,0,,Bizi ağırladığınız için teşekkürler.
+Dialogue: 0,0:14:37.16,0:14:40.11,ssrly,,0,0,0,,Önemli değil, kendinizi evinizdeymiş gibi hissedin.
+Dialogue: 0,0:14:45.42,0:14:53.57,ssrly,,0,0,0,,Abim bir hadım olduğundan eve böyle güzel, genç bir gelin getirmesine çok şaşırdım.
+Dialogue: 0,0:14:54.87,0:14:56.22,ssrly,,0,0,0,,Öyle bir şey yok.
+Dialogue: 0,0:14:56.22,0:14:57.62,ssrly,,0,0,0,,Aynen öyle.
+Dialogue: 0,0:15:06.23,0:15:08.08,ssrly,,0,0,0,,Ah tatlım, iyi misin?
+Dialogue: 0,0:15:16.10,0:15:20.58,ssrly,,0,0,0,,Bir ast rolü oynuyorsa, arabada yemek için kendisine yemek hazırlamalıydı.
+Dialogue: 0,0:15:20.90,0:15:23.46,ssrly,,0,0,0,,Baasen buna izin vermezdi sanırım.
+Dialogue: 0,0:15:23.58,0:15:25.86,ssrly,,0,0,0,,Kılık değiştirme mükkemmel.
+Dialogue: 0,0:15:25.86,0:15:28.76,ssrly,,0,0,0,,Umarım kendisini ele vermez.
+Dialogue: 0,0:15:30.09,0:15:31.02,ssrly,,0,0,0,,Ben geldim.
+Dialogue: 0,0:15:31.41,0:15:33.24,ssrly,,0,0,0,,Açlıktan ölüyorum.
+Dialogue: 0,0:15:33.60,0:15:35.81,ssrly,,0,0,0,,Abi! Görüşmeyeli çok oldu.
+Dialogue: 0,0:15:35.81,0:15:37.71,ssrly,,0,0,0,,Gerçekten öyle.
+Dialogue: 0,0:15:38.10,0:15:39.66,ssrly,,0,0,0,,Seni gördüğüme sevingim,amca.
+Dialogue: 0,0:15:40.50,0:15:42.83,ssrly,,0,0,0,,Evet, çok büyümüşsün.
+Dialogue: 0,0:15:53.73,0:15:56.44,ssrly,,0,0,0,,Hey, selam bile vermeden ne yapıyorsun!
+Dialogue: 0,0:15:57.42,0:15:58.17,ssrly,,0,0,0,,Abi...
+Dialogue: 0,0:15:59.44,0:16:01.12,ssrly,,0,0,0,,Şarlatanın yiğenleri demek.
+Dialogue: 0,0:16:02.02,0:16:04.28,ssrly,,0,0,0,,Büyük olanın kötü tavırları var.
+Dialogue: 0,0:16:05.10,0:16:08.15,ssrly,,0,0,0,,Amcamız yıllardır eve gelmeyen bir hadım.
+Dialogue: 0,0:16:09.18,0:16:10.95,ssrly,,0,0,0,,Onu buraya neden davet ettin?
+Dialogue: 0,0:16:11.85,0:16:15.19,ssrly,,0,0,0,,Bir de beraberinde bir sürü misafir getirdiğini söylemeye gerek bile yok.
+Dialogue: 0,0:16:15.19,0:16:16.46,ssrly,,0,0,0,,Ne kadar da kaba!
+Dialogue: 0,0:16:26.97,0:16:29.28,ssrly,,0,0,0,,Soğumadan bunu yiyeyim.
+Dialogue: 0,0:16:36.11,0:16:36.98,ssrly,,0,0,0,,Benim çorbam?
+Dialogue: 0,0:16:37.38,0:16:38.98,ssrly,,0,0,0,,Önce bir şey söylemen gerekmiyor mu?
+Dialogue: 0,0:16:45.66,0:16:46.51,ssrly,,0,0,0,,Üzgünüm,
+Dialogue: 0,0:16:46.99,0:16:51.38,ssrly,,0,0,0,,o senin bu köy için ne kadar şey yaptığının farkında değil.
+Dialogue: 0,0:16:52.26,0:16:52.99,ssrly,,0,0,0,,Sorun değil.
+Dialogue: 0,0:16:53.42,0:16:55.56,ssrly,,0,0,0,,Böyle muameleye alışkınım.
+Dialogue: 0,0:16:58.54,0:17:02.78,ssrly,,0,0,0,,Doğru hatırlıyorsam, şarlatan \Ndoktor arka saraya onun yerine gitti.
+Dialogue: 0,0:17:03.99,0:17:05.65,ssrly,,0,0,0,,Kötü hissetmesine şaşmamalı.
+Dialogue: 0,0:17:06.81,0:17:07.52,ssrly,,0,0,0,,Ama...
+Dialogue: 0,0:17:11.77,0:17:14.65,ssrly,,0,0,0,,Aslında, öylece içeri daldığımız için sizden özür dilemeliyiz.
+Dialogue: 0,0:17:16.28,0:17:20.01,ssrly,,0,0,0,,Bu arada. Beni davet etmenin bir nedeni var değil mi?
+Dialogue: 0,0:17:20.86,0:17:23.02,ssrly,,0,0,0,,Konuşmak istediğin bir şey var mı?
+Dialogue: 0,0:17:25.10,0:17:28.86,ssrly,,0,0,0,,Aslında, İmparator'dan bir ricada bulunmak istiyoruz.
+Dialogue: 0,0:17:29.34,0:17:29.86,ssrly,,0,0,0,,Ne?
+Dialogue: 0,0:17:30.90,0:17:35.28,ssrly,,0,0,0,,Sen İmparator'un çocuğunu \Ndoğurtan ünlü doktorsun, değil mi?
+Dialogue: 0,0:17:43.23,0:17:45.86,ssrly,,0,0,0,,Doğumda görev alan aslında babamdı ama...
+Dialogue: 0,0:17:45.86,0:17:49.05,ssrly,,0,0,0,,Sanırım bunun taktirini üstüne aldı ve ailesine hava attı.
+Dialogue: 0,0:17:49.05,0:17:51.49,ssrly,,0,0,0,,Sesimi çıkarmayacağım.
+Dialogue: 0,0:17:51.95,0:17:53.62,ssrly,,0,0,0,,Birisi sersemlemiş halde gerçi...
+Dialogue: 0,0:17:54.50,0:17:59.33,ssrly,,0,0,0,,Benim bir talepte bulunmamı mı istiyorsunuz? Bunun için yeterli niteliklere sahip değilim.
+Dialogue: 0,0:17:59.74,0:18:01.02,ssrly,,0,0,0,,Hiç ihtimali yok mu?
+Dialogue: 0,0:18:03.66,0:18:05.46,ssrly,,0,0,0,,İmparator'la konuşmam imkansız ama
+Dialogue: 0,0:18:05.78,0:18:08.18,ssrly,,0,0,0,,belki başka birinden bunu isteyebilirim.
+Dialogue: 0,0:18:08.55,0:18:09.65,ssrly,,0,0,0,,Ne tür bir talep?
+Dialogue: 0,0:18:17.86,0:18:19.40,ssrly,,0,0,0,,Lütfen anlatın.
+Dialogue: 0,0:18:20.02,0:18:22.02,ssrly,,0,0,0,,Ancak yardımcı olabilir miyim, emin değilim.
+Dialogue: 0,0:18:22.55,0:18:26.63,ssrly,,0,0,0,,Sorun değil, bu insanlar güvenilir.
+Dialogue: 0,0:18:28.15,0:18:29.24,ssrly,,0,0,0,,O halde...
+Dialogue: 0,0:18:33.34,0:18:37.10,ssrly,,0,0,0,,Konuşmak istediğimiz şey bu köydeki toprak lordu.
+Dialogue: 0,0:18:38.20,0:18:40.66,ssrly,,0,0,0,,Bu köy aslen borç alınan topraktı.
+Dialogue: 0,0:18:41.72,0:18:43.10,ssrly,,0,0,0,,Kocaya göre,
+Dialogue: 0,0:18:43.34,0:18:45.74,ssrly,,0,0,0,,önceki toprak sahibi cömert biriydi.
+Dialogue: 0,0:18:46.26,0:18:49.32,ssrly,,0,0,0,,Kimse kullanmadığı için toprağın kirası ucuzdu.
+Dialogue: 0,0:18:49.84,0:18:52.37,ssrly,,0,0,0,,Burada yaşadığı yıllardan sonra,
+Dialogue: 0,0:18:52.84,0:18:55.45,ssrly,,0,0,0,,Toprağı satın almaya geçtiler.
+Dialogue: 0,0:18:57.54,0:19:01.57,ssrly,,0,0,0,,Köy topraklarının 20 yıl sonra aktaracağına dağir belgeler imzaladılar.
+Dialogue: 0,0:19:02.01,0:19:04.53,ssrly,,0,0,0,,Ödemelerde geciktirmeden ödediler.
+Dialogue: 0,0:19:06.69,0:19:07.80,ssrly,,0,0,0,,Ancak bir kaç yıl önce,
+Dialogue: 0,0:19:08.55,0:19:10.59,ssrly,,0,0,0,,önceki toprak sahibi öldü.
+Dialogue: 0,0:19:10.59,0:19:13.90,ssrly,,0,0,0,,Yerine oğlu geçtiğinde durumlar değişti.
+Dialogue: 0,0:19:15.15,0:19:20.34,ssrly,,0,0,0,,Yeni toprak sahibi oralı olmayanlardan nefret ediyor ve zanaatkarlarla alay ediyormuş.
+Dialogue: 0,0:19:21.38,0:19:25.60,ssrly,,0,0,0,,Belki de kağıt üretiminin onları saray tedarikçisi konumuna yükseltmesinden hoşlanmamıştı.
+Dialogue: 0,0:19:25.84,0:19:31.22,ssrly,,0,0,0,,Kağıt kaliteleri düştüğü dönemde sürekli uğramış ve ödemelerini talep etmiş.
+Dialogue: 0,0:19:33.30,0:19:36.43,ssrly,,0,0,0,,Nedense bizi herzaman eleştiriyor.
+Dialogue: 0,0:19:37.16,0:19:41.16,ssrly,,0,0,0,,Pirinç hasadının kötü olmasını bile bizi suçladı, suyu kirletitğimizi söyledi.
+Dialogue: 0,0:19:41.68,0:19:44.22,ssrly,,0,0,0,,Pirinç yetiştirecek su kalmadığını idda etti.
+Dialogue: 0,0:19:45.37,0:19:48.36,ssrly,,0,0,0,,Ama bu sefer, herzamankinden de kötü.
+Dialogue: 0,0:19:48.74,0:19:52.42,ssrly,,0,0,0,,Hemen paramı verin, veremiyosanız da defolun gidin dedi.
+Dialogue: 0,0:19:53.40,0:19:55.42,ssrly,,0,0,0,,Kaç yıllık ödeme kaldı?
+Dialogue: 0,0:19:56.32,0:19:56.95,ssrly,,0,0,0,,Beş yıllık.
+Dialogue: 0,0:19:57.62,0:19:59.66,ssrly,,0,0,0,,Hepsini bir anda ödememiz imkansız.
+Dialogue: 0,0:20:00.40,0:20:03.65,ssrly,,0,0,0,,Mevcut toprak sahibi kendisi kağıt üretmek istiyor.
+Dialogue: 0,0:20:04.16,0:20:07.39,ssrly,,0,0,0,,Ama neden? Bu iş profesyöneller için.
+Dialogue: 0,0:20:08.06,0:20:12.21,ssrly,,0,0,0,,Çünkü tahıllardaki vergi bu yıl aniden göklere ulaştı.
+Dialogue: 0,0:20:13.86,0:20:17.20,ssrly,,0,0,0,,Buna karşın, kâğıt satış vergisi iki sene öncesine göre azaldı.
+Dialogue: 0,0:20:17.64,0:20:19.30,ssrly,,0,0,0,,Bu insanı çileden çıkarıyor.
+Dialogue: 0,0:20:21.03,0:20:24.95,ssrly,,0,0,0,,Kağıt vergisinin azaltılması okuryazarlık seviyesini arttırmak için olmalı.
+Dialogue: 0,0:20:25.50,0:20:29.33,ssrly,,0,0,0,,Ve belki de tahıl vergilerini çekirge salgınıyla savaşmak için yükselttiler.
+Dialogue: 0,0:20:30.08,0:20:35.74,ssrly,,0,0,0,,Bu çifte ürün veren toprağın hasadıyla verginin artırılması, fakirliğe yol açmamalı.
+Dialogue: 0,0:20:36.95,0:20:38.96,ssrly,,0,0,0,,Teorik olarak mantıklı gibi geliyor,
+Dialogue: 0,0:20:38.96,0:20:41.69,ssrly,,0,0,0,,ama bununla doğrudan bağlantısı \Nolanlar için bu durum dayanılmaz.
+Dialogue: 0,0:20:41.69,0:20:45.22,ssrly,,0,0,0,,Durumu daha da kötüleştirmek \Nister gibi, oğlumuz bizi delirtiyor.
+Dialogue: 0,0:20:45.97,0:20:48.79,ssrly,,0,0,0,,Kendi nedenlerinden dolayı o çiftçilerin tarafını tutuyor.
+Dialogue: 0,0:20:48.79,0:20:52.31,ssrly,,0,0,0,,Ayrıca o, hükümet yetkililerimizin de aynı olduğunu düşünüyor.
+Dialogue: 0,0:20:52.65,0:20:57.82,ssrly,,0,0,0,,Bu yüzden senden tahıl vergisinde indirime gidilmesini talep etmeni istedim.
+Dialogue: 0,0:20:59.91,0:21:03.20,ssrly,,0,0,0,,Ben sadece bir hadımım...
+Dialogue: 0,0:21:04.81,0:21:05.70,ssrly,,0,0,0,,Anlıyorum.
+Dialogue: 0,0:21:08.09,0:21:12.43,ssrly,,0,0,0,,O hâlde en azından yarınki toplantıya bizimle gelir misin?
+Dialogue: 0,0:21:12.85,0:21:14.41,ssrly,,0,0,0,,O kadarını yapabilirim.
+Dialogue: 0,0:21:14.41,0:21:16.30,ssrly,,0,0,0,,Ben de katılabilir miyim?
+Dialogue: 0,0:21:19.04,0:21:21.71,ssrly,,0,0,0,,Şey, bunun hakkında nasıl hissedeceklerinden emin değilim.
+Dialogue: 0,0:21:21.95,0:21:25.26,ssrly,,0,0,0,,Üçüncü şahısların katılımının faydalı olabileceğini düşünüyorum.
+Dialogue: 0,0:21:26.16,0:21:27.39,ssrly,,0,0,0,,Araya girmeyeceğim.
+Dialogue: 0,0:21:27.65,0:21:30.56,ssrly,,0,0,0,,Ama eğer saldırgan hale gelirlerse, ben konuşurum.
+Dialogue: 0,0:21:30.99,0:21:33.01,ssrly,,0,0,0,,Onu ilgilendirdiği için meraklı olmalı.
+Dialogue: 0,0:21:34.00,0:21:35.60,ssrly,,0,0,0,,O zaman, sanırım...
+Dialogue: 0,0:21:36.57,0:21:39.53,ssrly,,0,0,0,,Bende orada hemen yanında olacağım!
+Dialogue: 0,0:21:39.91,0:21:42.12,ssrly,,0,0,0,,Yardımın dokunacağını sanmam gerçi.
+Dialogue: 0,0:21:53.29,0:21:54.21,ssrly,,0,0,0,,Ağlama lütfen.
+Dialogue: 0,0:21:54.93,0:21:55.43,ssrly,,0,0,0,,Lütfen...
+Dialogue: 0,0:21:57.30,0:21:59.57,ssrly,,0,0,0,,Ama... böyle giderse...
+Dialogue: 0,0:22:02.93,0:22:04.01,ssrly,,0,0,0,,Endişelenme.
+Dialogue: 0,0:22:04.97,0:22:06.65,ssrly,,0,0,0,,Ben bir şekilde halledeceğim.
+Dialogue: 0,0:23:56.59,0:23:58.43,ssrly,,0,0,0,,Sonraki bölüm: İdda

@@ -1,0 +1,299 @@
+[Script Info]
+Title: pn-SomeSubs - The Apothecary Diaries Season 3
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.709
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: ssrly,Trebuchet MS,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,60,1
+Style: Default,Trebuchet MS,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,ssrly,,0,0,0,,{\an7\fnSweetest Cat Ever\fs50\b0\fad(400,400)\bord2\blur5\shad0\4c&H000000&\4a&HFF&\pos(20,-2)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Riley\N{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} shi\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:01:30.86,0:01:34.26,ssrly,,0,0,0,,Bu yolculuğun bir diğer amacıysa eş seçmek.
+Dialogue: 0,0:01:34.26,0:01:36.36,ssrly,,0,0,0,,Bir eş mi?
+Dialogue: 0,0:01:36.98,0:01:40.08,ssrly,,0,0,0,,Evet. İmparatorun erkek kardeşi için bir eş.
+Dialogue: 0,0:01:41.22,0:01:46.16,ssrly,,0,0,0,,İmparatorun erkek kardeşi için bir eş seçmek, yani Jinshi-sama için.
+Dialogue: 0,0:01:47.04,0:01:48.52,ssrly,,0,0,0,,Zor bir durum.
+Dialogue: 0,0:01:49.82,0:01:52.92,ssrly,,0,0,0,,Sanırım bu, Leydi Lishu'nun da bir\N aday olduğu manasına geliyor ama...
+Dialogue: 0,0:01:52.92,0:01:56.30,ssrly,,0,0,0,,Cariye Lishu, dört eşten biri\Nolmaya tam olarak uygun değil.
+Dialogue: 0,0:01:56.90,0:02:01.66,ssrly,,0,0,0,,Eğer imparator onu hediye vermeye karar \Nİerirse bu, onun için en iyi sonuç olabilir.
+Dialogue: 0,0:02:02.74,0:02:04.74,ssrly,,0,0,0,,Ama kime verecek? Sorun bu.
+Dialogue: 0,0:02:04.74,0:02:06.82,ssrly,,0,0,0,,Adam çok tehlikeli.
+Dialogue: 0,0:02:06.82,0:02:10.38,ssrly,,0,0,0,,Eğer bir kadın olsaydı,\N güzelliği birçok ulusu yıkabilirdi.
+Dialogue: 0,0:02:11.22,0:02:13.70,ssrly,,0,0,0,,Yüzündeki yara iziyle bile,
+Dialogue: 0,0:02:13.70,0:02:16.12,ssrly,,0,0,0,,Bunun yol açabileceği drama korkutucu.
+Dialogue: 0,0:02:16.44,0:02:20.12,ssrly,,0,0,0,,Belki de daha önce gerçekleşen saldırı bununla bağlantılıydı?
+Dialogue: 0,0:02:20.38,0:02:22.62,ssrly,,0,0,0,,Hayır, abartmayalım.
+Dialogue: 0,0:02:28.46,0:02:30.90,ssrly,,0,0,0,,Güzel, bu taraftan.
+Dialogue: 0,0:02:38.68,0:02:41.54,ssrly,,0,0,0,,Bileklerindeki o yılana benzeyen iplik...
+Dialogue: 0,0:02:53.06,0:02:54.16,ssrly,,0,0,0,,İçeri gelebilir miyim?
+Dialogue: 0,0:02:58.76,0:02:59.43,ssrly,,0,0,0,,Buyur.
+Dialogue: 0,0:03:00.16,0:03:02.88,ssrly,,0,0,0,,Her zamanki yardımcın seninle beraber değil mi?
+Dialogue: 0,0:03:03.72,0:03:06.62,ssrly,,0,0,0,,Arka saraydan sadece benim ayrılmama izin verdiler.
+Dialogue: 0,0:03:07.22,0:03:10.88,ssrly,,0,0,0,,Yanımdaki kadın babam tarafından görevlendirilmişti.
+Dialogue: 0,0:03:11.48,0:03:15.04,ssrly,,0,0,0,,Onun her zaman benden bu kadar korkması biraz canımı yakıyordu, ama...
+Dialogue: 0,0:03:15.04,0:03:16.46,ssrly,,0,0,0,,Belki de artık bana alışmıştır.
+Dialogue: 0,0:03:16.46,0:03:19.00,ssrly,,0,0,0,,Anlıyorum. Peki ne istemiştiniz?
+Dialogue: 0,0:03:22.62,0:03:23.98,ssrly,,0,0,0,,Ne baş belası.
+Dialogue: 0,0:03:23.98,0:03:26.02,ssrly,,0,0,0,,Kötü biri değil ama...
+Dialogue: 0,0:03:26.02,0:03:28.54,ssrly,,0,0,0,,Ona öncülük mü etmeliyim?
+Dialogue: 0,0:03:28.92,0:03:31.59,ssrly,,0,0,0,,Öncülük... Öncülük...
+Dialogue: 0,0:03:31.59,0:03:34.12,ssrly,,0,0,0,,İmparatorun erkek kardeşiyle evlenecek misiniz?
+Dialogue: 0,0:03:35.58,0:03:37.76,ssrly,,0,0,0,,Hayır, henüz değil...
+Dialogue: 0,0:03:37.76,0:03:40.20,ssrly,,0,0,0,,En azından haberi var.
+Dialogue: 0,0:03:40.20,0:03:43.06,ssrly,,0,0,0,,Neden daha mutlu değil o zaman?
+Dialogue: 0,0:03:44.66,0:03:48.21,ssrly,,0,0,0,,Öyleyse, haydutların size saldırması için bir neden düşünebiliyorsunuzdur?
+Dialogue: 0,0:03:49.58,0:03:52.21,ssrly,,0,0,0,,Şu an bundan bahsetmek istemiyorum.
+Dialogue: 0,0:03:52.62,0:03:56.22,ssrly,,0,0,0,,Bir fikri var yani, o fazla dürüst biri.
+Dialogue: 0,0:03:56.22,0:03:58.12,ssrly,,0,0,0,,O halde ne söylemek istiyorsunuz?
+Dialogue: 0,0:03:59.40,0:04:05.90,ssrly,,0,0,0,,Acaba, bir ebeveyinin gerçekten çocuğa kan bağı olup olmadığını ayırt edebilir misin?
+Dialogue: 0,0:04:06.60,0:04:08.00,ssrly,,0,0,0,,Ayırt etmek?
+Dialogue: 0,0:04:08.23,0:04:10.44,ssrly,,0,0,0,,Evet... Ben ve babam...
+Dialogue: 0,0:04:10.94,0:04:16.24,ssrly,,0,0,0,,Şey... yani Uryuu'nun gerçekten babam \Nolup olmadığını anlamanın bir yolu var mı...
+Dialogue: 0,0:04:17.24,0:04:18.66,ssrly,,0,0,0,,Bunu neden istiyorsunuz?
+Dialogue: 0,0:04:19.32,0:04:20.24,ssrly,,0,0,0,,O...
+Dialogue: 0,0:04:33.38,0:04:34.40,ssrly,,0,0,0,,Çok güzel kokuyor.
+Dialogue: 0,0:04:34.96,0:04:36.26,ssrly,,0,0,0,,Çok sakinleştirici değil mi?
+Dialogue: 0,0:04:37.94,0:04:42.56,ssrly,,0,0,0,,Ben... Aslında arka saraya \Ngeri dönmemem gerekiyordu...
+Dialogue: 0,0:04:44.52,0:04:46.06,ssrly,,0,0,0,,Eski imparator öldüğünde,
+Dialogue: 0,0:04:46.06,0:04:48.27,ssrly,,0,0,0,,Hayatımın kalanını bir manastırda geçirecektim.
+Dialogue: 0,0:04:48.27,0:04:52.80,ssrly,,0,0,0,,Ama babam bana güçlü bir valiyle evlenmemi söyledi.
+Dialogue: 0,0:04:53.70,0:04:58.30,ssrly,,0,0,0,,Vali çok yaşlıydı ve birçok metresi vardı ama...
+Dialogue: 0,0:04:58.96,0:05:03.86,ssrly,,0,0,0,,Evim, U klanı çok zayıftı.
+Dialogue: 0,0:05:03.86,0:05:06.68,ssrly,,0,0,0,,Önce eski imparator, sonra sapık yaşlı bir amca.
+Dialogue: 0,0:05:06.68,0:05:09.48,ssrly,,0,0,0,,Söylenene göre imparatoriçe acımasız bir yöneticiydi.
+Dialogue: 0,0:05:09.48,0:05:12.48,ssrly,,0,0,0,,Yani onu daha fazla güç elde etmek için kullanmış olmalılar.
+Dialogue: 0,0:05:13.06,0:05:18.08,ssrly,,0,0,0,,O evliliğe engel olanlar Leydi Ah-Duo ve imparatordu.
+Dialogue: 0,0:05:18.64,0:05:22.42,ssrly,,0,0,0,,Eğer arka saraya gidersem valiyle evlenmeme gerek kalmazdı.
+Dialogue: 0,0:05:22.82,0:05:26.54,ssrly,,0,0,0,,Söylentilerden Leydi Ah-Duo'nun ondan rica ettiğini duydum.
+Dialogue: 0,0:05:27.22,0:05:32.78,ssrly,,0,0,0,,Muhtemelen küçükken imparatora kucağına oturacak kadar yakın olduğum içindir.
+Dialogue: 0,0:05:33.28,0:05:34.58,ssrly,,0,0,0,,Anlıyorum.
+Dialogue: 0,0:05:34.58,0:05:37.58,ssrly,,0,0,0,,Şimdi bunu yapsa kalbi duracakmış gibi gözüküyor.
+Dialogue: 0,0:05:37.86,0:05:41.80,ssrly,,0,0,0,,Peki bu babalık testiyle nasıl bağlantılı?
+Dialogue: 0,0:05:42.52,0:05:46.22,ssrly,,0,0,0,,Annemin Leydi Ah-Duo ile\N arkadaş olduklarını duydum...
+Dialogue: 0,0:05:46.88,0:05:50.44,ssrly,,0,0,0,,İmparator da dahil üçünün \Nsık sık beraber çay içtiklerini de.
+Dialogue: 0,0:05:50.44,0:05:52.33,ssrly,,0,0,0,,Demek öyle.
+Dialogue: 0,0:05:52.33,0:05:54.76,ssrly,,0,0,0,,Ah-Duo'nun onunla ilgilenmesine şaşmamalı.
+Dialogue: 0,0:05:55.90,0:05:59.58,ssrly,,0,0,0,,Ayrıca, annem prensin cariyesi olmak için adaydı.
+Dialogue: 0,0:06:01.32,0:06:02.58,ssrly,,0,0,0,,Ne? Bekle ne?
+Dialogue: 0,0:06:02.58,0:06:03.70,ssrly,,0,0,0,,Bu...
+Dialogue: 0,0:06:03.70,0:06:08.35,ssrly,,0,0,0,,İmparator henüz prensken \Ntek cariyesi Leydi Ah-Duo'ydu.
+Dialogue: 0,0:06:08.35,0:06:10.12,ssrly,,0,0,0,,Ve çoktan kısır hale gelmişti.
+Dialogue: 0,0:06:10.70,0:06:13.90,ssrly,,0,0,0,,Eski imparator çoktan yaşlı ve hastaydı.
+Dialogue: 0,0:06:14.28,0:06:16.64,ssrly,,0,0,0,,Çocuk sahibi olmak imparatorun göreviydi.
+Dialogue: 0,0:06:17.04,0:06:21.56,ssrly,,0,0,0,,Prensin cariyesi olmak için\N başka bir aday olsaydı...
+Dialogue: 0,0:06:22.46,0:06:27.48,ssrly,,0,0,0,,Bu, babamla evlendikten sonraydı.
+Dialogue: 0,0:06:27.48,0:06:31.36,ssrly,,0,0,0,,Yine de babam...
+Dialogue: 0,0:06:31.76,0:06:35.52,ssrly,,0,0,0,,Konuyu dolandırıyor ama\N  basitçe söylemek gerekirse...
+Dialogue: 0,0:06:35.52,0:06:40.00,ssrly,,0,0,0,,İmparatorun gerçek babası olabileceğinden şüphe ediyor.
+Dialogue: 0,0:06:41.12,0:06:43.54,ssrly,,0,0,0,,İmparatorun erkek kardeşi harika biri.
+Dialogue: 0,0:06:43.92,0:06:47.56,ssrly,,0,0,0,,Ama bir eş seçiyorsa... Ben...
+Dialogue: 0,0:06:48.00,0:06:51.46,ssrly,,0,0,0,,Evet, bu ona verildiği için \Nmutlu olunacak bir zaman değil.
+Dialogue: 0,0:06:51.96,0:06:57.86,ssrly,,0,0,0,,İmparatorun kızı ve imparatorun erkek kardeşi arasında olacak bir evlilik akraba ilişkisi olacaktır.
+Dialogue: 0,0:07:02.50,0:07:04.90,ssrly,,0,0,0,,Aslında bunu araştırmayı hiç istemiyorum.
+Dialogue: 0,0:07:05.38,0:07:07.76,ssrly,,0,0,0,,Ama yapamam demek istemiyorum.
+Dialogue: 0,0:07:07.76,0:07:10.26,ssrly,,0,0,0,,Şimdi bunu dinleyince merak da ettim.
+Dialogue: 0,0:07:10.26,0:07:12.16,ssrly,,0,0,0,,Babası olup olmadığını anlamak basit,
+Dialogue: 0,0:07:12.16,0:07:15.64,ssrly,,0,0,0,,Sadece {\i1}yaptıları{\i0} gün ile kızın\N doğum tarihi arasını hesapla yeter.
+Dialogue: 0,0:07:15.90,0:07:20.18,ssrly,,0,0,0,,Ama gidip babası olan bu Uryuu kişisine soramam,
+Dialogue: 0,0:07:20.18,0:07:22.22,ssrly,,0,0,0,,Ve eğer imparatora sorarsam...
+Dialogue: 0,0:07:24.42,0:07:25.68,ssrly,,0,0,0,,Evet, bunu yapamam!
+Dialogue: 0,0:07:26.62,0:07:32.16,ssrly,,0,0,0,,Eğer Leydi Gyokuyou gibi kızıl ve yeşil gözlü olsa, anlaması kolay olurdu.
+Dialogue: 0,0:07:32.16,0:07:36.44,ssrly,,0,0,0,,Leydi Lishu, Li krallığından herhangi biri gibi gözüküyor.
+Dialogue: 0,0:07:36.44,0:07:38.98,ssrly,,0,0,0,,Babası nasıl gözüküyor bilmiyorum gerçi.
+Dialogue: 0,0:07:40.76,0:07:42.14,ssrly,,0,0,0,,Afedersiniz.
+Dialogue: 0,0:07:45.48,0:07:46.52,ssrly,,0,0,0,,Ne istiyorsun?
+Dialogue: 0,0:07:49.50,0:07:51.68,ssrly,,0,0,0,,Ah, bu koku çok rahatlatıcı.
+Dialogue: 0,0:07:52.16,0:07:53.74,ssrly,,0,0,0,,Cidden, neden burdasın?
+Dialogue: 0,0:07:53.74,0:07:56.20,ssrly,,0,0,0,,Sadece dikiş attığım hastayı kontrol ediyorum.
+Dialogue: 0,0:07:59.86,0:08:00.77,ssrly,,0,0,0,,İzninizle.
+Dialogue: 0,0:08:02.74,0:08:04.70,ssrly,,0,0,0,,Evet, düzgün şekilde iyileşiyor.
+Dialogue: 0,0:08:04.70,0:08:06.61,ssrly,,0,0,0,,Hareketsiz kalarak iyi iş çıkardı.
+Dialogue: 0,0:08:06.61,0:08:09.98,ssrly,,0,0,0,,Ateş düşürücü ilacın varsa birazını benimle paylaş, stoğum bitmek üzere.
+Dialogue: 0,0:08:09.98,0:08:12.02,ssrly,,0,0,0,,Malzemelerim var. Getireyim.
+Dialogue: 0,0:08:15.96,0:08:17.68,ssrly,,0,0,0,,Ah, şey, merhaba.
+Dialogue: 0,0:08:18.00,0:08:19.18,ssrly,,0,0,0,,Bir şey mi oldu?
+Dialogue: 0,0:08:19.48,0:08:22.86,ssrly,,0,0,0,,Ah hayır, sadece yaralılar için endişelenmiştim.
+Dialogue: 0,0:08:22.86,0:08:25.86,ssrly,,0,0,0,,İyi ilaçlarım var, belki paylaşabilirim diye düşünmüştüm.
+Dialogue: 0,0:08:25.86,0:08:29.22,ssrly,,0,0,0,,Elbette bedavaya. Yaralar çok kötü olmalı.
+Dialogue: 0,0:08:30.04,0:08:32.18,ssrly,,0,0,0,,Gözümüze girmeye mi çalışıyor?
+Dialogue: 0,0:08:32.49,0:08:36.82,ssrly,,0,0,0,,O, Leydi Ah-Duo'nun tuttuğu\N rehberle aynı köyden, değil mi?
+Dialogue: 0,0:08:38.50,0:08:42.14,ssrly,,0,0,0,,Onlar haydutlarla başa çıkmak için tutulmuşlardı ama yinede bu oldu.
+Dialogue: 0,0:08:42.64,0:08:46.28,ssrly,,0,0,0,,Eğer bir şey yapmazlarsa köylerindeki \Nticaret güven kaybedecektir.
+Dialogue: 0,0:08:46.54,0:08:47.90,ssrly,,0,0,0,,Ne tür bir ilaç?
+Dialogue: 0,0:08:48.14,0:08:49.98,ssrly,,0,0,0,,Evet! Bu.
+Dialogue: 0,0:08:53.68,0:08:54.52,ssrly,,0,0,0,,Bu...
+Dialogue: 0,0:09:00.26,0:09:01.67,ssrly,,0,0,0,,Bunu nereden buldun?
+Dialogue: 0,0:09:03.36,0:09:04.88,ssrly,,0,0,0,,Bunu hiç kullandın mı?
+Dialogue: 0,0:09:04.88,0:09:09.36,ssrly,,0,0,0,,Şey, aslında nasıl kullanıldığından emin değilim.
+Dialogue: 0,0:09:12.16,0:09:14.18,ssrly,,0,0,0,,Ah, çok şanslısın.
+Dialogue: 0,0:09:14.18,0:09:18.08,ssrly,,0,0,0,,İlaç olarak kesinlikle işlevli. Kabul edeceğiz.
+Dialogue: 0,0:09:18.08,0:09:19.58,ssrly,,0,0,0,,Gerçekten de.
+Dialogue: 0,0:09:20.94,0:09:24.78,ssrly,,0,0,0,,Eğer onu kullanmış olsaydın, şu anda yaptığın gibi çalışamayabilirdin.
+Dialogue: 0,0:09:25.08,0:09:27.20,ssrly,,0,0,0,,Eğer dahası varsa, hepsini satın alacağız.
+Dialogue: 0,0:09:27.72,0:09:31.78,ssrly,,0,0,0,,Zamanın boşa gitmeyecek. Bize bunun hakkında başka ne söyleyebilirsin?
+Dialogue: 0,0:09:31.78,0:09:35.02,ssrly,,0,0,0,,Bu haşhaş ürününe nasıl denk geldin?
+Dialogue: 0,0:09:35.02,0:09:37.02,ssrly,,0,0,0,,Başka bir deyişle, afyona?
+Dialogue: 0,0:09:39.44,0:09:44.06,ssrly,,0,0,0,,Bir yıl kadar önce bir gezgin sanatçı bunu bana verdi.
+Dialogue: 0,0:09:44.06,0:09:47.06,ssrly,,0,0,0,,Bana bunun kalbi iyileştirebilen,
+Dialogue: 0,0:09:47.06,0:09:50.06,ssrly,,0,0,0,,ölümlü diyarının acılarını silen bir ilaç olduğunu söyledi.
+Dialogue: 0,0:09:50.06,0:09:52.80,ssrly,,0,0,0,,Bir narkotiğe göre ağzı iyi laf yapıyor.
+Dialogue: 0,0:09:53.30,0:09:55.94,ssrly,,0,0,0,,Kasabada esrar içmek oldukça yaygındı.
+Dialogue: 0,0:09:55.94,0:09:58.92,ssrly,,0,0,0,,Bu yüzden onlara nasıl içeceklerini açıklama gereği duymadı.
+Dialogue: 0,0:09:59.30,0:10:05.14,ssrly,,0,0,0,,O leydi... Şey, leydi dedim ama\N en fazla 15 yaşında falandı.
+Dialogue: 0,0:10:05.14,0:10:08.14,ssrly,,0,0,0,,Daha önce hiç görmediğim beyaz saçları vardı.
+Dialogue: 0,0:10:09.12,0:10:11.20,ssrly,,0,0,0,,Hiç unutmadım.
+Dialogue: 0,0:10:11.20,0:10:14.38,ssrly,,0,0,0,,O, yılan tanrının reankarnasyonuydu.
+Dialogue: 0,0:10:14.38,0:10:17.90,ssrly,,0,0,0,,Muhtemelen gizlice ölümlülerin dünyasını geziyordur.
+Dialogue: 0,0:10:27.52,0:10:30.88,ssrly,,0,0,0,,Bir gün sonra yolculuğumuza geri döndük.
+Dialogue: 0,0:10:31.54,0:10:36.62,ssrly,,0,0,0,,Problemler birikiyor ve tuhaf bağlantılar da ortaya çıkıyor.
+Dialogue: 0,0:10:36.96,0:10:38.32,ssrly,,0,0,0,,Beyaz saç.
+Dialogue: 0,0:10:38.66,0:10:40.06,ssrly,,0,0,0,,Ayrıca bir yılan tanrı.
+Dialogue: 0,0:10:40.62,0:10:42.98,ssrly,,0,0,0,,Haydutların giydiği bilekliklerin
+Dialogue: 0,0:10:42.98,0:10:48.30,ssrly,,0,0,0,,yılanların çiftleşmesini simgelemek üzere, beyaz iplerden yapılmış olduğunu duydum.
+Dialogue: 0,0:10:50.68,0:10:55.10,ssrly,,0,0,0,,Onları sorgulamayı çok isterdim ama konuşabiliyorlar mı, bilmiyorum.
+Dialogue: 0,0:10:57.52,0:11:01.04,ssrly,,0,0,0,,Haydutların hepsi afyon bağımlısıydı.
+Dialogue: 0,0:11:22.46,0:11:25.46,ssrly,,0,0,0,,Gündüz gece arasındaki sıcaklık farklı beklediğimden daha fazla.
+Dialogue: 0,0:11:32.88,0:11:35.96,ssrly,,0,0,0,,Yolculuğun geri kalanında zamanımı Suirei ile beraber geçirdim.
+Dialogue: 0,0:11:36.68,0:11:42.16,ssrly,,0,0,0,,Gece zehirli böcekler ve akrepler olabileceğini söyleyip aşırı fazla miktarda böcek karşısı tütsü yaktı.
+Dialogue: 0,0:11:43.76,0:11:46.06,ssrly,,0,0,0,,Gelseler daha iyi olurdu oysaki.
+Dialogue: 0,0:11:59.22,0:12:03.58,ssrly,,0,0,0,,Ve dolayısıyla başka bir sorun\N yaşamadan hedefimize ulaştık.
+Dialogue: 0,0:12:21.38,0:12:23.12,ssrly,,0,0,0,,Yani Batı Başkent burası.
+Dialogue: 0,0:12:23.12,0:12:25.16,ssrly,,0,0,0,,Karmaşık bir şehir olduğunu duymuştum ama.
+Dialogue: 0,0:12:25.16,0:12:26.98,ssrly,,0,0,0,,Burada kaybolabiliriz.
+Dialogue: 0,0:12:26.98,0:12:29.22,ssrly,,0,0,0,,Artık kılık değiştirmeyecek misiniz?
+Dialogue: 0,0:12:29.22,0:12:32.00,ssrly,,0,0,0,,Evet, artık vardığımıza göre gerek yok.
+Dialogue: 0,0:12:32.67,0:12:35.02,ssrly,,0,0,0,,Bu boyalar umarım çıkar.
+Dialogue: 0,0:12:35.02,0:12:37.76,ssrly,,0,0,0,,Bir ay boyunca yüzünüzdeydi sonuçta.
+Dialogue: 0,0:12:51.10,0:12:53.56,ssrly,,0,0,0,,O-Onun burada ne işi var?
+Dialogue: 0,0:12:54.34,0:12:58.12,ssrly,,0,0,0,,Bütün bu yolculukta gerçekten onun Jinshi-sama olduğunu fark etmediler mi?
+Dialogue: 0,0:12:58.74,0:13:00.06,ssrly,,0,0,0,,Leydi Lishua bile...
+Dialogue: 0,0:13:00.94,0:13:04.26,ssrly,,0,0,0,,Şehrimize gelme zahmetinde bulunduğunuz için teşekkür ederiz.
+Dialogue: 0,0:13:04.76,0:13:07.74,ssrly,,0,0,0,,Ben You Gyokuen'im, bu şehrin lideri.
+Dialogue: 0,0:13:08.02,0:13:10.08,ssrly,,0,0,0,,Kızıma baktığınız için minnettarım.
+Dialogue: 0,0:13:12.77,0:13:16.44,ssrly,,0,0,0,,Ah, bu adam Leydi Gyokuyou'nun babası demek.
+Dialogue: 0,0:13:16.78,0:13:18.46,ssrly,,0,0,0,,Gerçekten bir benzerlik var.
+Dialogue: 0,0:13:19.00,0:13:21.06,ssrly,,0,0,0,,Misafirperverliğiniz için teşekkür ederim.
+Dialogue: 0,0:13:21.50,0:13:23.96,ssrly,,0,0,0,,Elbette. Yolculuktan dolayı yorulduğunuza eminim.
+Dialogue: 0,0:13:24.32,0:13:29.28,ssrly,,0,0,0,,Ziyafetler yarın başlayacak. Lütfen bu gece iyice dinlenin.
+Dialogue: 0,0:13:30.98,0:13:32.79,ssrly,,0,0,0,,Bu odayı kullanın lütfen.
+Dialogue: 0,0:13:37.26,0:13:42.02,ssrly,,0,0,0,,Gerçekten mi? İmparatorun erkek kardeşinin yardımcısı için bile fazla bir oda bu.
+Dialogue: 0,0:13:45.72,0:13:46.24,ssrly,,0,0,0,,Tatlı!
+Dialogue: 0,0:13:54.12,0:13:56.38,ssrly,,0,0,0,,Su bu bölgede çok değerli olmalı ama yine de...
+Dialogue: 0,0:13:56.38,0:13:58.30,ssrly,,0,0,0,,Ne kadar yorulduğumuzu umursuyor.
+Dialogue: 0,0:13:58.30,0:14:01.02,ssrly,,0,0,0,,Gerçekten de Leydi Gyokuyou'nun babası.
+Dialogue: 0,0:14:08.08,0:14:10.38,ssrly,,0,0,0,,Daha sonra parasını istemezler değil mi?
+Dialogue: 0,0:14:10.38,0:14:12.66,ssrly,,0,0,0,,Sen neden buradasın!
+Dialogue: 0,0:14:13.48,0:14:15.60,ssrly,,0,0,0,,Bunu cam açıkken mi yapıyorlar?
+Dialogue: 0,0:14:17.48,0:14:18.12,ssrly,,0,0,0,,Göremiyorum.
+Dialogue: 0,0:14:18.66,0:14:20.62,ssrly,,0,0,0,,Babam buraya gelmemi emretti...
+Dialogue: 0,0:14:20.62,0:14:24.50,ssrly,,0,0,0,,Yani ne!? Beni sabote etmeye mi çalışıyorsun{\b1}!?
+Dialogue: 0,0:14:25.80,0:14:28.85,ssrly,,0,0,0,,Düşmanlık bu kadar açık olduğunda bu aslında rahatlatıcı.
+Dialogue: 0,0:14:29.46,0:14:32.10,ssrly,,0,0,0,,Bekle, yandaki oda...
+Dialogue: 0,0:14:45.72,0:14:48.06,ssrly,,0,0,0,,Diğer herkesi gönderiyorlar mı?
+Dialogue: 0,0:14:59.36,0:15:00.88,ssrly,,0,0,0,,İçeri girmeme müsade eder misiniz?
+Dialogue: 0,0:15:04.52,0:15:05.56,ssrly,,0,0,0,,Buyrun lütfen.
+Dialogue: 0,0:15:14.80,0:15:16.58,ssrly,,0,0,0,,Ağlamak için yatağa girmiş olmalı.
+Dialogue: 0,0:15:17.74,0:15:18.80,ssrly,,0,0,0,,Lütfen göster.
+Dialogue: 0,0:15:24.90,0:15:26.94,ssrly,,0,0,0,,Su getirebilir misin?
+Dialogue: 0,0:15:26.94,0:15:30.22,ssrly,,0,0,0,,Leydi Lishu'nun yanından ayrılamam.
+Dialogue: 0,0:15:30.22,0:15:33.26,ssrly,,0,0,0,,Az önce ayrılmak konusunda pek isteksiz görünmüyordun.
+Dialogue: 0,0:15:39.46,0:15:41.70,ssrly,,0,0,0,,Serin tutarsan acı ve kızarıklık geçecektir.
+Dialogue: 0,0:15:42.16,0:15:44.92,ssrly,,0,0,0,,Ne olur ne olmaz diye ağzının \Niçini de kontrol edebilir miyim?
+Dialogue: 0,0:15:44.92,0:15:46.58,ssrly,,0,0,0,,Evet...
+Dialogue: 0,0:15:51.64,0:15:53.33,ssrly,,0,0,0,,Ah, bu nadir.
+Dialogue: 0,0:15:54.92,0:15:56.94,ssrly,,0,0,0,,Yanlışlıkla çok uzun baktım.
+Dialogue: 0,0:15:57.42,0:15:58.72,ssrly,,0,0,0,,Burada da bir sorun yok.
+Dialogue: 0,0:15:59.46,0:16:01.20,ssrly,,0,0,0,,Şey, istersen oraya oturabilirsin...
+Dialogue: 0,0:16:01.80,0:16:03.28,ssrly,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:16:06.64,0:16:09.32,ssrly,,0,0,0,,O kadın çok şiddet yanlısı birine benziyor.
+Dialogue: 0,0:16:10.00,0:16:11.08,ssrly,,0,0,0,,O benim üvey kardeşim.
+Dialogue: 0,0:16:11.08,0:16:14.10,ssrly,,0,0,0,,Şimdiki üvey annem eskiden babamın metresiydi.
+Dialogue: 0,0:16:14.78,0:16:19.40,ssrly,,0,0,0,,Annem öldüğünde metres onun yerini aldı ve çoktan kendi çocuğu vardı.
+Dialogue: 0,0:16:19.98,0:16:24.08,ssrly,,0,0,0,,Anlaşılan büyük kardeş şımartılmış.
+Dialogue: 0,0:16:24.76,0:16:29.32,ssrly,,0,0,0,,Yoksa kan bağı ile alakalı \Nşeyleri o ablandan mı duydun?
+Dialogue: 0,0:16:30.87,0:16:35.72,ssrly,,0,0,0,,Haydutlar hakkında konuşurken sözlerini dikkatli seçiyordun?
+Dialogue: 0,0:16:30.87,0:16:35.72,ssrly,,0,0,0,,Ablanın olaylara dahil olma ihtimalinden şüphelendiğin için mi
+Dialogue: 0,0:16:36.18,0:16:39.38,ssrly,,0,0,0,,B-Bilmiyorum.
+Dialogue: 0,0:16:40.16,0:16:43.36,ssrly,,0,0,0,,Kendi kardeşinin arkasından suikastçı göndermek...
+Dialogue: 0,0:16:43.36,0:16:46.50,ssrly,,0,0,0,,Bu berbat bir şey ama imkansız değil.
+Dialogue: 0,0:16:46.50,0:16:48.99,ssrly,,0,0,0,,En azından onu zorbaladığı açık.
+Dialogue: 0,0:16:51.18,0:16:54.70,ssrly,,0,0,0,,Bu akşam sizinle beraber akşam yemeği yiyebilir miyim?
+Dialogue: 0,0:16:55.80,0:16:59.42,ssrly,,0,0,0,,Leydi Ah-Duo'yu da davet edelim.
+Dialogue: 0,0:17:01.00,0:17:01.72,ssrly,,0,0,0,,Evet.
+Dialogue: 0,0:17:14.96,0:17:17.34,ssrly,,0,0,0,,Gerçekten kimin kızı bilmiyorum ama.
+Dialogue: 0,0:17:17.34,0:17:21.48,ssrly,,0,0,0,,Bundan o sorumlu tutulmamalı.
+Dialogue: 0,0:17:22.04,0:17:26.14,ssrly,,0,0,0,,Leydi Ah-Duo teklifi sorgulamadan kabul etti.
+Dialogue: 0,0:17:26.42,0:17:29.40,ssrly,,0,0,0,,Ayrıca gizlice zehir kontrolü yapabiliyorum.
+Dialogue: 0,0:17:29.80,0:17:34.98,ssrly,,0,0,0,,Eğer haydutlar tarafından suikast mümkünse, \Nzehirleme ihtimalini göz ardı edemem.
+Dialogue: 0,0:17:35.64,0:17:38.18,ssrly,,0,0,0,,Bu gerçekten de oldukça etkileyici bir oda.
+Dialogue: 0,0:17:42.04,0:17:46.16,ssrly,,0,0,0,,Eskiden yabancı bir tanrının mabetiymiş.
+Dialogue: 0,0:17:46.64,0:17:51.80,ssrly,,0,0,0,,Hanımımız eskiden burada herkesle yemek yerdi.
+Dialogue: 0,0:17:52.34,0:17:53.60,ssrly,,0,0,0,,Hanımız,
+Dialogue: 0,0:17:53.60,0:17:55.26,ssrly,,0,0,0,,Leydi Gyokuyou mu?
+Dialogue: 0,0:17:55.56,0:17:56.34,ssrly,,0,0,0,,Evet.
+Dialogue: 0,0:17:58.48,0:18:00.38,ssrly,,0,0,0,,Büyüleyici.
+Dialogue: 0,0:18:04.78,0:18:06.74,ssrly,,0,0,0,,Ben hizmetçilere haber vereyim.
+Dialogue: 0,0:18:07.46,0:18:08.80,ssrly,,0,0,0,,Evet, lütfen.
+Dialogue: 0,0:18:15.60,0:18:17.78,ssrly,,0,0,0,,Burası devasa.
+Dialogue: 0,0:18:24.68,0:18:27.78,ssrly,,0,0,0,,Basen, burada ne işin var?
+Dialogue: 0,0:18:28.22,0:18:31.62,ssrly,,0,0,0,,Uh, hiçbir şey.
+Dialogue: 0,0:18:32.00,0:18:34.68,ssrly,,0,0,0,,Kesin kayboldu.
+Dialogue: 0,0:18:35.40,0:18:38.74,ssrly,,0,0,0,,Fark etmemiş gibi yapayım.
+Dialogue: 0,0:18:38.74,0:18:41.82,ssrly,,0,0,0,,Sorun değilse bana ek binaya kadar eşlik eder misin?
+Dialogue: 0,0:18:41.82,0:18:44.21,ssrly,,0,0,0,,Siz de orada kalıyorsunuz, değil mi?
+Dialogue: 0,0:18:45.10,0:18:47.06,ssrly,,0,0,0,,Evet, bunu yapabilirim!
+Dialogue: 0,0:18:48.80,0:18:50.34,ssrly,,0,0,0,,Baş belası.
+Dialogue: 0,0:19:03.68,0:19:07.04,ssrly,,0,0,0,,Cariye Lishu'nun nasıl biri \Nolduğunu biliyor musun?
+Dialogue: 0,0:19:07.44,0:19:09.13,ssrly,,0,0,0,,Bunu Jinshi-sama'ya neden sormuyorsun?
+Dialogue: 0,0:19:09.78,0:19:11.68,ssrly,,0,0,0,,Bunu yapamam, sorun da bu.
+Dialogue: 0,0:19:15.10,0:19:16.30,ssrly,,0,0,0,,Anlıyorum.
+Dialogue: 0,0:19:17.14,0:19:21.14,ssrly,,0,0,0,,Biraz çocukça davranabiliyor ama onun\N masum olduğunu söylemek yanlış olmaz.
+Dialogue: 0,0:19:21.86,0:19:24.14,ssrly,,0,0,0,,Genel olarak çok tatlı.
+Dialogue: 0,0:19:26.14,0:19:27.54,ssrly,,0,0,0,,Emin misin?
+Dialogue: 0,0:19:27.98,0:19:30.00,ssrly,,0,0,0,,Bundan neden şüphelisin?
+Dialogue: 0,0:19:40.76,0:19:44.58,ssrly,,0,0,0,,Efendi Jinshi de babam da adını duyduğunda tereddüt etti.
+Dialogue: 0,0:19:46.84,0:19:48.42,ssrly,,0,0,0,,Bunu kimseye söylemezsin değil mi?
+Dialogue: 0,0:19:48.86,0:19:51.10,ssrly,,0,0,0,,O zaman duymak istemiyorum.
+Dialogue: 0,0:19:51.44,0:19:54.64,ssrly,,0,0,0,,Hey, buraya kadar geldim, bırak anlatayım.
+Dialogue: 0,0:19:55.22,0:19:59.16,ssrly,,0,0,0,,Leydi Lishu'nun Jinshi'ye verileceğine dair söylentiler var.
+Dialogue: 0,0:19:59.68,0:20:00.76,ssrly,,0,0,0,,Ah, canım.
+Dialogue: 0,0:20:01.60,0:20:05.18,ssrly,,0,0,0,,Bu ne tür bir tepki?! Bunun önemli bir haber olduğunu düşünmüyor musun?
+Dialogue: 0,0:20:05.18,0:20:09.46,ssrly,,0,0,0,,Ah, hayır, sadece ben evde kaldım diye endişeleniyordum.
+Dialogue: 0,0:20:10.86,0:20:11.88,ssrly,,0,0,0,,Ah, doğru.
+Dialogue: 0,0:20:12.48,0:20:15.84,ssrly,,0,0,0,,Bunu inandırıcı bulması hiçbir kadını\N etkileyememesinin sebeplerinden.
+Dialogue: 0,0:20:16.82,0:20:19.06,ssrly,,0,0,0,,Sorun nedir?
+Dialogue: 0,0:20:19.06,0:20:23.66,ssrly,,0,0,0,,Ailesi ve yaşına bakılırsa ana aday olmaması için bir neden görmüyorum.
+Dialogue: 0,0:20:24.52,0:20:26.44,ssrly,,0,0,0,,Jinshi-sama ve Leydi Lishu.
+Dialogue: 0,0:20:26.44,0:20:30.36,ssrly,,0,0,0,,Her en kadar zaten bir prens olsa da, tahtın varis sıralamasında çok ileride yer alıyor.
+Dialogue: 0,0:20:30.36,0:20:33.66,ssrly,,0,0,0,,İmparatoriçe olamayabilir ama \Nkesinlikle bir şansölyenin eşi olabilir.
+Dialogue: 0,0:20:34.78,0:20:36.86,ssrly,,0,0,0,,Akraba evliliği olma ihtimali var.
+Dialogue: 0,0:20:38.22,0:20:39.96,ssrly,,0,0,0,,Ama onun bunu bilmesine imkan yok.
+Dialogue: 0,0:20:40.82,0:20:45.87,ssrly,,0,0,0,,Sağlık nedenlerinden dolayı kaçınılsa da aynı anneden doğmadıkları sürece bir sorun olmamalı.
+Dialogue: 0,0:20:46.24,0:20:49.76,ssrly,,0,0,0,,Bu yüksek mertebede çok\N sıradışı bir şey de değil zaten.
+Dialogue: 0,0:20:50.50,0:20:54.02,ssrly,,0,0,0,,Ama, biliyorsun ya, \NJinshi-sama ile evlenecek.
+Dialogue: 0,0:20:54.30,0:20:56.58,ssrly,,0,0,0,,Buna layık biri olmalı.
+Dialogue: 0,0:20:56.92,0:20:58.66,ssrly,,0,0,0,,Nesin sen, baldız mı?
+Dialogue: 0,0:20:58.66,0:20:59.70,ssrly,,0,0,0,,Bu kadar yeter.
+Dialogue: 0,0:21:00.58,0:21:05.08,ssrly,,0,0,0,,O zaman neden onunla konuşup buna kendin karar vermiyorsun?
+Dialogue: 0,0:21:05.60,0:21:09.60,ssrly,,0,0,0,,Direkt olarak mı? Şey... uh.
+Dialogue: 0,0:21:10.42,0:21:14.02,ssrly,,0,0,0,,Kadınlar genellikle benim gibi erkeklerden korkmaz mı?
+Dialogue: 0,0:21:14.76,0:21:18.82,ssrly,,0,0,0,,Unuttun mu?
+Dialogue: 0,0:21:14.76,0:21:18.82,ssrly,,0,0,0,,Daha geçen gün birinin bakirliğini almaya çalıştığını...
+Dialogue: 0,0:21:18.82,0:21:20.10,ssrly,,0,0,0,,Sen kime-
+Dialogue: 0,0:21:20.10,0:21:21.26,ssrly,,0,0,0,,Orada kimse var mı?
+Dialogue: 0,0:21:25.10,0:21:26.86,ssrly,,0,0,0,,Sen çok ses yaptık diye oldu.
+Dialogue: 0,0:21:27.28,0:21:29.27,ssrly,,0,0,0,,Hayır, olay çıkaran sendin.
+Dialogue: 0,0:21:29.27,0:21:33.27,ssrly,,0,0,0,,Bu adam fazla güçlü!
+Dialogue: 0,0:21:38.50,0:21:40.13,ssrly,,0,0,0,,Yanlış mı duyduk?
+Dialogue: 0,0:21:40.13,0:21:43.02,ssrly,,0,0,0,,Umarım öyledir.
+Dialogue: 0,0:21:43.02,0:21:45.72,ssrly,,0,0,0,,Nyese, Basen nerede?
+Dialogue: 0,0:23:53.16,0:23:55.93,ssrly,,0,0,0,,{\pos(912,88)}Bir Sonraki Bölüm: "Batı Başkent"
